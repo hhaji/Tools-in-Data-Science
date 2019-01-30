@@ -1,5 +1,6 @@
 # Tools in Data Science: 
 In this repo, we introduce some videos, slides, notebooks, and papers about some of important tools in data science. <br>
+
 ---
 **Index:**
 - [Git](#Git)
@@ -11,7 +12,7 @@ In this repo, we introduce some videos, slides, notebooks, and papers about some
   - [R](#R)
   - [Project Euler](#Project-Euler)
   - [Anaconda](#Anaconda) (Installing Python using Anaconda)
-  - Tutorials and Jupyter Notebooks
+  - [Tutorials and Jupyter Notebooks](#Tutorials-and-Jupyter-Notebooks)
 - [Python Libraries for Data Science](#Python-Libraries-for-Data-Science) 
   - [Numpy](#Numpy)
   - [Pandas](#Pandas)
@@ -66,7 +67,7 @@ If you want to solve interesting problems to practice Python or R, then we recom
 #### [Anaconda:](#Anaconda)
 [Anaconda Distribution](https://www.anaconda.com/what-is-anaconda/): With over 6 million users, the open source Anaconda Distribution is the fastest and easiest way to do Python and R data science and machine learning on Linux, Windows, and Mac OS X. It's the industry standard for developing, testing, and training on a single machine.
 
-#### [Tutorials and Jupyter Notebooks:](Tutorials-and-Jupyter-Notebooks) 
+#### [Tutorials and Jupyter Notebooks:](#Tutorials-and-Jupyter-Notebooks) 
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
 * [Real Python Tutorials](https://realpython.com)
 * [Python (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/python) by Colin Morris <br>
@@ -85,12 +86,6 @@ If you want to solve interesting problems to practice Python or R, then we recom
 
 ## [Python Libraries for Data Science](#Python-Libraries-for-Data-Science)
 Python continues to take leading positions in solving data science tasks and challenges. [Kdnuggets](https://www.kdnuggets.com/2018/06/top-20-python-libraries-data-science-2018.html) introduced 20 libraries of Python for data science. Here are five of the most important of libraries: 
-
-  - 
-  - 
-  - 
-  - 
-  - 
 
 #### [Numpy](#Numpy)
 [NumPy](http://www.numpy.org) is the fundamental package for scientific computing with Python. Besides its obvious scientific uses, NumPy can also be used as an efficient multi-dimensional container of generic data. Arbitrary data-types can be defined. This allows NumPy to seamlessly and speedily integrate with a wide variety of databases.<br>
