@@ -1,23 +1,23 @@
 # Tools in Data Science: 
 In this repo, we introduce some videos, slides, notebooks, and papers about some of important tools in data science. <br>
-
+---
 **Index:**
 - [Git](#Git)
-  - Videos
-  - Git Cheat Sheets
-  - Slides
+  - [Videos](#Videos)
+  - [Git Cheat Sheets](#Git-Cheat-Sheets)
+  - [Slides](#Slides)
 - [Programming Languages](#Programming-Languages)
-  - Python
-  - R
-  - Project euler
-  - Anaconda (Installing Python using Anaconda)
+  - [Python](#Python)
+  - [R](#R)
+  - [Project Euler](#Project-Euler)
+  - [Anaconda](#Anaconda) (Installing Python using Anaconda)
   - Tutorials and Jupyter Notebooks
 - [Python Libraries for Data Science](#Python-Libraries-for-Data-Science) 
-  - Numpy
-  - Pandas
-  - Matplotlib
-  - Scikit-Learn
-  - SciPy
+  - [Numpy](#Numpy)
+  - [Pandas](#Pandas)
+  - [Matplotlib](#Matplotlib)
+  - [Scikit-Learn](#Scikit-Learn)
+  - [SciPy](#SciPy)
 - [Markdown](#Markdown) 
 - [Jupyter and IPython](#Jupyter-and-IPython)
 - [Command Prompt Cheat sheet](#Command-Prompt-Cheat-sheet)
@@ -31,22 +31,22 @@ In this repo, we introduce some videos, slides, notebooks, and papers about some
 * [Git Book](https://git-scm.com/book/en/v2)
 * [Git Tutorial](http://www.cs.columbia.edu/~sedwards/classes/2013/4840/git-tutorial.pdf) by Jae Woo Lee and Stephen A. Edwards
 
-### Videos:
+#### [Videos:](#Videos)
  * [Parsclick (Git: In Persian)](https://parsclick.net/course/PL3Y-E4YSE4wYFlcomsBtJy1nCu3jclA8L)
  * [Parsclick (GitHub: In persian)](https://parsclick.net/course/PL3Y-E4YSE4wa_TUfN7G3rAMIiu6vIeepT)
 
-### Git Cheat Sheets:
+#### [Git Cheat Sheets:](#Git-Cheat-Sheets)
 * [GitHub Training](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 * [Git Lab](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
 * [GitHub Education](https://education.github.com/git-cheat-sheet-education.pdf)
 
-### Slides:
+#### [Slides](#Slides)
 * [An Introduction to Git](https://elite.polito.it/files/courses/03FYZ/2017/slide/Git-01-intro.pdf) by Politecnico di Torino
 * [GIT for Beginners](https://people.irisa.fr/Anthony.Baire/git/git-for-beginners-handout.pdf) by Anthony Baire
 * [A Quick Guide to Git and Version Control](http://sites.utexas.edu/asa-student-chapter/files/2016/04/Grad_Skills_Seminar_11-17-17_Git_and_Version_Control.pdf) by Jay Johnson
 
-## [Programming Languages](#Programming-Languages) 
-### Python
+## [Programming Languages:](#Programming-Languages) 
+#### [Python:](#Python)
 You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website for getting started with coding. It offers easy to follow lessons, interspersed with quizzes to help you retain what you are learning). Also, we recommend the following references: 
 
 * [Real Python Tutorials](https://realpython.com)
@@ -57,16 +57,16 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
 * The Python Tutorial ([available from the Python website](https://docs.python.org/3.6/tutorial/))
 * [Python3 Tutorial:](https://www.python-course.eu/python3_course.php) This online Python course was created and is maintained by Bernd Klein, an experienced Python trainer, giving training classes all over the world. It is an interesting introduction into Python for beginners and intermediate learners with lots of examples and exercises! 
 
-### R
+#### [R:](#R)
 Online Book: [R for Data Science](https://r4ds.had.co.nz/index.html) <br>
 
-### Project Euler
+#### [Project Euler:](#Project-Euler)
 If you want to solve interesting problems to practice Python or R, then we recommend to solve the problems of [Project Euler](https://projecteuler.net/)!
 
-### Anaconda
+#### [Anaconda:](#Anaconda)
 [Anaconda Distribution](https://www.anaconda.com/what-is-anaconda/): With over 6 million users, the open source Anaconda Distribution is the fastest and easiest way to do Python and R data science and machine learning on Linux, Windows, and Mac OS X. It's the industry standard for developing, testing, and training on a single machine.
 
-### Tutorials and Jupyter Notebooks: 
+#### [Tutorials and Jupyter Notebooks:](Tutorials-and-Jupyter-Notebooks) 
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
 * [Real Python Tutorials](https://realpython.com)
 * [Python (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/python) by Colin Morris <br>
@@ -86,7 +86,13 @@ If you want to solve interesting problems to practice Python or R, then we recom
 ## [Python Libraries for Data Science](#Python-Libraries-for-Data-Science)
 Python continues to take leading positions in solving data science tasks and challenges. [Kdnuggets](https://www.kdnuggets.com/2018/06/top-20-python-libraries-data-science-2018.html) introduced 20 libraries of Python for data science. Here are five of the most important of libraries: 
 
-### NumPy
+  - 
+  - 
+  - 
+  - 
+  - 
+
+#### [Numpy](#Numpy)
 [NumPy](http://www.numpy.org) is the fundamental package for scientific computing with Python. Besides its obvious scientific uses, NumPy can also be used as an efficient multi-dimensional container of generic data. Arbitrary data-types can be defined. This allows NumPy to seamlessly and speedily integrate with a wide variety of databases.<br>
 
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
@@ -94,7 +100,7 @@ Python continues to take leading positions in solving data science tasks and cha
 * [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/) by Justin Johnson <br>
 * [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) <br>
 
-### Pandas
+#### [Pandas](#Pandas)
 [Pandas](https://pandas.pydata.org) is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.<br>
 
 * [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
@@ -102,18 +108,18 @@ Python continues to take leading positions in solving data science tasks and cha
 * [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) <br>
 * [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html) <br>
 
-### Matplotlib
+#### [Matplotlib](#Matplotlib)
 [Matplotlib](https://matplotlib.org) is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. Matplotlib can be used in Python scripts, the Python and IPython shells, the Jupyter notebook, web application servers, and four graphical user interface toolkits.
 
 * [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
 
-### Scikit-Learn
+#### [Scikit-Learn](#Scikit-Learn)
 [Scikit-Learn](https://scikit-learn.org) is a simple and efficient tools for data mining and data analysis. It was built on NumPy, SciPy, and Matplotlib. 
 
 * [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
 
-### SciPy
+#### [SciPy](#SciPy)
 [SciPy](https://github.com/scipy/scipy) (pronounced "Sigh Pie") is open-source software for mathematics, science, and engineering. It includes modules for statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more.
 
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
