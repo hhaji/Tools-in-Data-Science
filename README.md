@@ -37,6 +37,7 @@ In this repo, we introduce some videos, slides, notebooks, and papers about some
  * [Parsclick (GitHub: In persian)](https://parsclick.net/course/PL3Y-E4YSE4wa_TUfN7G3rAMIiu6vIeepT)
 
 ### Git Cheat Sheets:
+* [Git Cheat Sheet:](https://github.com/hhaji/Tools-in-Data-Science/blob/master/Cheat%20Sheets/Git-Cheat-Sheet.md)
 * [GitHub Training](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 * [Git Lab](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
 * [GitHub Education](https://education.github.com/git-cheat-sheet-education.pdf)
