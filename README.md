@@ -2,7 +2,7 @@
 In this repo, we introduce some videos, slides, notebooks, and papers about some of important tools in data science. <br>
 
 ---
-**Index:**
+### **Index:**
 - [Git](#Git)
   - [Videos](#Videos)
   - [Git Cheat Sheets](#Git-Cheat-Sheets)
