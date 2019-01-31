@@ -29,6 +29,7 @@ In this repo, we introduce some videos, slides, notebooks, and papers about some
 * [Resources to learn Git](https://try.github.io)
 * Learn Git from [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 * [Practice Git Online](https://learngitbranching.js.org)
+* Learn Git from Scratch in [LabEx](https://labex.io/courses/learn-git-from-scratch)
 * [Git Book](https://git-scm.com/book/en/v2)
 * [Git Tutorial](http://www.cs.columbia.edu/~sedwards/classes/2013/4840/git-tutorial.pdf) by Jae Woo Lee and Stephen A. Edwards
 
@@ -57,6 +58,7 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
 * [Python for Everybody](https://www.py4e.com/book.php) by Charles R. Severance (free PDF book)
 * [Practical Programming (2nd edition): An Introduction to Computer Science Using Python 3](https://pragprog.com/book/gwpy2/practical-programming) by Paul Gries, Jennifer Campbell, and Jason Montojo, 2013.
 * The Python Tutorial ([available from the Python website](https://docs.python.org/3.6/tutorial/))
+* Learn Python from [LabEx](https://labex.io/courses/intro-to-python-3)
 * [Python3 Tutorial:](https://www.python-course.eu/python3_course.php) This online Python course was created and is maintained by Bernd Klein, an experienced Python trainer, giving training classes all over the world. It is an interesting introduction into Python for beginners and intermediate learners with lots of examples and exercises! 
 
 ### R:
@@ -96,6 +98,8 @@ Python continues to take leading positions in solving data science tasks and cha
 * [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/) by Justin Johnson <br>
 * [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) <br>
 
+- **Exercises:** Practice Numpy in [LabEx](https://labex.io/courses/100-numpy-exercises)
+
 ### Pandas:
 [Pandas](https://pandas.pydata.org) is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.<br>
 
@@ -104,11 +108,15 @@ Python continues to take leading positions in solving data science tasks and cha
 * [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) <br>
 * [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html) <br>
 
+- **Exercises:** Practice Pandas in [LabEx](https://labex.io/courses/100-pandas-exercises)
+
 ### Matplotlib:
 [Matplotlib](https://matplotlib.org) is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. Matplotlib can be used in Python scripts, the Python and IPython shells, the Jupyter notebook, web application servers, and four graphical user interface toolkits.
 
 * [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
+
+- **Exercises:** Practice Matplotlib in [LabEx](https://labex.io/courses/draw-2d-and-3d-graphics-by-matplotlib)
 
 ### Scikit-Learn:
 [Scikit-Learn](https://scikit-learn.org) is a simple and efficient tools for data mining and data analysis. It was built on NumPy, SciPy, and Matplotlib. 
