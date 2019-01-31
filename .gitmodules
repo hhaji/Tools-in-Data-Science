@@ -1,0 +1,3 @@
+[submodule "Python Libraries/Data-Science-IPython-NoteBooks"]
+	path = Python Libraries/Data-Science-IPython-NoteBooks
+	url = https://github.com/donnemartin/data-science-ipython-notebooks
