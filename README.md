@@ -65,6 +65,8 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
 ### R:
 Online Book: [R for Data Science](https://r4ds.had.co.nz/index.html) <br>
 
+* [Data Science Wars: Python Versus R](http://i.imgur.com/0TydZ4M.png)
+
 ### Project Euler:
 If you want to solve interesting problems to practice Python or R, then we recommend to solve the problems of [Project Euler](https://projecteuler.net/)!
 
