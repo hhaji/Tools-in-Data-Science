@@ -60,6 +60,7 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
 * The Python Tutorial ([available from the Python website](https://docs.python.org/3.6/tutorial/))
 * Learn Python from [LabEx](https://labex.io/courses/intro-to-python-3)
 * [Python3 Tutorial:](https://www.python-course.eu/python3_course.php) This online Python course was created and is maintained by Bernd Klein, an experienced Python trainer, giving training classes all over the world. It is an interesting introduction into Python for beginners and intermediate learners with lots of examples and exercises! 
+* [Useful Functions, Tutorials, and Other Python-Related Things](https://github.com/rasbt/python_reference)
 
 ### R:
 Online Book: [R for Data Science](https://r4ds.had.co.nz/index.html) <br>
