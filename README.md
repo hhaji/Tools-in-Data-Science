@@ -19,7 +19,7 @@ In this repo, we introduce some videos, slides, notebooks, and papers about some
   - [Matplotlib](#Matplotlib)
   - [Scikit-Learn](#Scikit-Learn)
   - [SciPy](#SciPy)
-  - [A Fascinating Guide For Machine Learning](*A-Fascinating-Guide-For-Machine-Learning)
+  - [A Fascinating Guide For Machine Learning](#A-Fascinating-Guide-For-Machine-Learning)
 - [Markdown](#Markdown) 
 - [Jupyter and IPython](#Jupyter-and-IPython)
 - [Command Prompt Cheat sheet](#Command-Prompt-Cheat-sheet)
