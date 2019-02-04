@@ -19,6 +19,7 @@ In this repo, we introduce some videos, slides, notebooks, and papers about some
   - [Matplotlib](#Matplotlib)
   - [Scikit-Learn](#Scikit-Learn)
   - [SciPy](#SciPy)
+  - [A Fascinating Guide For Machine Learning](*A-Fascinating-Guide-For-Machine-Learning)
 - [Markdown](#Markdown) 
 - [Jupyter and IPython](#Jupyter-and-IPython)
 - [Command Prompt Cheat sheet](#Command-Prompt-Cheat-sheet)
@@ -131,6 +132,10 @@ Python continues to take leading positions in solving data science tasks and cha
 
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
 * [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
+
+### A Fascinating Guide For Machine Learning:
+
+* [Technical Notes On Using Data Science & Artificial Intelligence To Fight For Something That Matters](https://chrisalbon.com) by Chris Albon
 
 ## Jupyter and IPython:
 The [Jupyter](https://jupyter.org) is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more. Also, [IPython](https://ipython.org) provides a rich architecture for interactive computing with in multiple programming languages.
