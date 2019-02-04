@@ -134,7 +134,6 @@ Python continues to take leading positions in solving data science tasks and cha
 * [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
 
 ### A Fascinating Guide For Machine Learning:
-
 * [Technical Notes On Using Data Science & Artificial Intelligence To Fight For Something That Matters](https://chrisalbon.com) by Chris Albon
 
 ## Jupyter and IPython:
