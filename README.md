@@ -114,6 +114,7 @@ Python continues to take leading positions in solving data science tasks and cha
 
 - Tutorial: [Visualizing Machine Learning One Concept at a Time](http://jalammar.github.io) by Jay Alammar
 - Tutorial: [Best practices with pandas (Video Series)](https://www.dataschool.io/best-practices-with-pandas/)
+- Tutorial: [9 New Pandas Updates That Will Save You Time](https://www.dataschool.io/python-pandas-updates/)
 - **Exercises:** Practice Pandas in [LabEx](https://labex.io/courses/100-pandas-exercises)
 
 ### Matplotlib:
