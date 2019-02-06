@@ -112,6 +112,7 @@ Python continues to take leading positions in solving data science tasks and cha
 * [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) <br>
 * [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html) <br>
 
+- Tutorial: [Visualizing Machine Learning One Concept at a Time](http://jalammar.github.io) by Jay Alammar
 - **Exercises:** Practice Pandas in [LabEx](https://labex.io/courses/100-pandas-exercises)
 
 ### Matplotlib:
