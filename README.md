@@ -63,6 +63,7 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
 * [Python3 Tutorial:](https://www.python-course.eu/python3_course.php) This online Python course was created and is maintained by Bernd Klein, an experienced Python trainer, giving training classes all over the world. It is an interesting introduction into Python for beginners and intermediate learners with lots of examples and exercises! 
 * [Useful Functions, Tutorials, and Other Python-Related Things](https://github.com/rasbt/python_reference)
 * [How to Use the Python Debugger](http://fastml.com/how-to-use-the-python-debugger/) by Zygmunt
+* [Errors and Debugging](https://jakevdp.github.io/PythonDataScienceHandbook/01.06-errors-and-debugging.html) by Jake VanderPlas
 
 ### R:
 Online Book: [R for Data Science](https://r4ds.had.co.nz/index.html) <br>
