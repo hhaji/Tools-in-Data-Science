@@ -2,7 +2,7 @@
 [Data Science Center](http://ds.sbu.ac.ir), [Shahid Beheshti University](http://www.sbu.ac.ir/)  
 
 ---
-'''
+```javascript
 In this repository, we introduce some videos, slides, notebooks, and papers about some of important tools in data science and also some tools to write or share your projects. 
 '''
 ---
