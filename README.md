@@ -1,5 +1,6 @@
-# Tools in Data Science:  
-[Data Science Center](http://ds.sbu.ac.ir), [Shahid Beheshti University](http://www.sbu.ac.ir/)  <br>
+# Tools in Data Science:
+[Data Science Center](http://ds.sbu.ac.ir), [Shahid Beheshti University](http://www.sbu.ac.ir/)  
+
 ---
 
 In this repo, we introduce some videos, slides, notebooks, and papers about some of important tools in data science and also some tools to write or share your projects. <br>
