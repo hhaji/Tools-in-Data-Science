@@ -28,6 +28,9 @@ tools in data science and also some tools to write or share your projects.
 - [Markdown](#Markdown) 
 - [Jupyter and IPython](#Jupyter-and-IPython)
 - [Command Prompt Cheat sheet](#Command-Prompt-Cheat-sheet)
+- Files
+  - [Cheat Sheets](https://github.com/hhaji/Tools-in-Data-Science/tree/master/Cheat%20Sheets)
+  - [Python Libraries](https://github.com/hhaji/Tools-in-Data-Science/tree/master/Python%20Libraries)
 ---
 ## Git
 [Git](https://git-scm.com) is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is [easy to learn](https://git-scm.com/doc) and has a [tiny footprint with lightning fast performance](https://git-scm.com/about/small-and-fast). 
