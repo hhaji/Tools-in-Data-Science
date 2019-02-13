@@ -8,7 +8,7 @@ tools in data science and also some tools to write or share your projects.
 ```
 ---
 ### **Index:**
-- [Git](https://github.com/hhaji/Tools-in-Data-Science#Git)
+- [Git](#Git)
   - [Videos](#Videos)
   - [Git Cheat Sheets](#Git-Cheat-Sheets)
   - [Slides](#Slides)
