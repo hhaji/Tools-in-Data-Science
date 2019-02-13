@@ -2,8 +2,8 @@
 
 ---
 ```javascript
-In this repository, we introduce some videos, slides, notebooks, and papers about some of important  
-tools in data science and also some tools to write or share your projects. 
+In this repository, we introduce some videos, slides, notebooks, and papers about some of 
+important tools in data science and also some tools to write or share your projects. 
 ```
 ---
 ### **Index:**
