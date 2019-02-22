@@ -1,5 +1,5 @@
 # Jupyter NoteBooks for Python Libraries
-This folder contains interesting jupyter notebooks writen by different authors.
+This page contains interesting jupyter notebooks writen by different authors.
 
 ## Folders:
 
