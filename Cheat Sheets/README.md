@@ -8,7 +8,7 @@ This page contains cheat sheets prepared by different authors
 
 
 Git Commands  | Description
-------------- | -----------
+--------------|------------
 git init | Create a new Git repository
 git config --global user.name "name" | Sets the name you want to attach to your commit transactions 
 git config --global user.email "email address" | Sets the email you want to attach to your commit transactions 
