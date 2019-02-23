@@ -29,7 +29,7 @@ important tools in data science and also some tools to write or share your proje
 - [Jupyter and IPython](#Jupyter-and-IPython)
 - [Command Prompt Cheat Sheet](#Command-Prompt-Cheat-Sheet)
 - Files
-  - [Cheat Sheets]https://hhaji.github.io/Tools-in-Data-Science/Cheat%20Sheets)
+  - [Cheat Sheets](https://hhaji.github.io/Tools-in-Data-Science/Cheat%20Sheets)
   - [Python Libraries](https://hhaji.github.io/Tools-in-Data-Science/Python%20Libraries)
   
 ---
