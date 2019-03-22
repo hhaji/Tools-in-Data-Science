@@ -27,7 +27,7 @@ important tools in data science and also some tools to write or share your proje
   - [A Fascinating Guide For Machine Learning](#A-Fascinating-Guide-For-Machine-Learning)
 - [Markdown](#Markdown) 
 - [Jupyter and IPython](#Jupyter-and-IPython)
-- [Command Prompt Cheat Sheet](#Command-Prompt-Cheat-Sheet)
+- [Command Line](#Command-Line)
 - Files
   - [Cheat Sheets](https://hhaji.github.io/Tools-in-Data-Science/Cheat%20Sheets)
   - [Python Libraries](https://hhaji.github.io/Tools-in-Data-Science/Python%20Libraries)
