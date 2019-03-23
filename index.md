@@ -8,6 +8,9 @@ important tools in data science and also some tools to write or share your proje
 ---
 
 ### **Index:**
+- [Command Line](#Command-Line)
+- [Jupyter and IPython](#Jupyter-and-IPython)
+- [Markdown](#Markdown) 
 - [Git](#Git)
   - [Videos](#Videos)
   - [Git Cheat Sheets](#Git-Cheat-Sheets)
@@ -25,14 +28,42 @@ important tools in data science and also some tools to write or share your proje
   - [Scikit-Learn](#Scikit-Learn)
   - [SciPy](#SciPy)
   - [A Fascinating Guide For Machine Learning](#A-Fascinating-Guide-For-Machine-Learning)
-- [Markdown](#Markdown) 
-- [Jupyter and IPython](#Jupyter-and-IPython)
-- [Command Line](#Command-Line)
 - Files
   - [Cheat Sheets](https://hhaji.github.io/Tools-in-Data-Science/Cheat%20Sheets)
   - [Python Libraries](https://hhaji.github.io/Tools-in-Data-Science/Python%20Libraries)
   
 ---
+
+## <a name="Command-Line"></a>Command Line:
+* [Introduction to the Command Line](https://github.com/justmarkham/DAT8/blob/master/code/02_command_line.md) by Kevin Markham
+* Cheat Sheet: [Windows](http://www1.cs.columbia.edu/~sedwards/classes/2017/1102-spring/Command%20Prompt%20Cheatsheet.pdf) 
+* Cheat Sheet: [Linux & Mac](http://blog.markpearl.co.za/assets/documents/bash-cheatsheet.pdf)
+
+## <a name="Jupyter-and-IPython"></a>Jupyter and IPython:
+The [Jupyter](https://jupyter.org) is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more. Also, [IPython](https://ipython.org) provides a rich architecture for interactive computing with in multiple programming languages.
+
+* Install: [JupyterLab User Cheatsheet & Jupyter NoteBooks User Cheatsheet](https://docs.anaconda.com/_downloads/JupyterLab-Notebook-Cheatsheet.pdf)
+* [28 Jupyter Notebook Tips, Tricks, and Shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
+* [JupyterLab Extension](https://github.com/topics/jupyterlab-extension) 
+* [Awesome JupyterLab](https://github.com/mauhai/awesome-jupyterlab) by Hai Nguyen Mau
+* [Jupyter Lab extensions for Data Scientist](https://medium.com/@subpath/jupyter-lab-extensions-for-data-scientist-e0d97d529fc1) by Alexander Osipenko <br>
+* [IPython and Shell Commands](https://jakevdp.github.io/PythonDataScienceHandbook/01.05-ipython-and-shell-commands.html)
+* [IPython: Beyond Normal Python](https://www.oreilly.com/library/view/python-data-science/9781491912126/ch01.html)
+* [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
+* [Jupyter/IPython Notebook Quick Start Guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)
+* [Built-in Magic Commands](https://ipython.readthedocs.io/en/stable/interactive/magics.html)
+* [Defining Custom Magics](https://ipython.org/ipython-doc/dev/config/custommagics.html)
+* [Introducing IPython:](https://ipython.org/ipython-doc/3/interactive/tutorial.html) Differences between line-oriented and cell-oriented magic functions 
+* Paper: [Ten Simple Rules for Reproducible Research in Jupyter Notebooks](https://arxiv.org/pdf/1810.08055.pdf)
+* Talk: [Jupyter (Formerly IPython Notebook)](http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/6973/pdf/imm6973.pdf) by Finn Arup Nielsen <br>
+
+## <a name="Markdown"></a>Markdown:
+[Markdown](https://www.markdownguide.org/getting-started) is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
+
+* [Markdown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+* [Learn Markdown Online](https://commonmark.org/help/tutorial/)
+* [Getting Started with R Markdown](https://ourcodingclub.github.io/2016/11/24/rmarkdown-1.html)
+* [Word to Markdown](https://word-to-markdown.herokuapp.com)
 
 ## <a name="Git"></a>Git
 [Git](https://git-scm.com) is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is [easy to learn](https://git-scm.com/doc) and has a [tiny footprint with lightning fast performance](https://git-scm.com/about/small-and-fast). 
@@ -97,14 +128,6 @@ If you want to solve interesting problems to practice Python or R, then we recom
 * [Getting started with conda](https://conda.io/docs/user-guide/getting-started.html)
 * [Instalation](https://docs.anaconda.com/anaconda/install/)
 
-## <a name="Markdown"></a>Markdown:
-[Markdown](https://www.markdownguide.org/getting-started) is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
-
-* [Markdown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
-* [Learn Markdown Online](https://commonmark.org/help/tutorial/)
-* [Getting Started with R Markdown](https://ourcodingclub.github.io/2016/11/24/rmarkdown-1.html)
-* [Word to Markdown](https://word-to-markdown.herokuapp.com)
-
 ## <a name="Python-Libraries-for-Data-Science"></a>Python Libraries for Data Science:
 Python continues to take leading positions in solving data science tasks and challenges. [Kdnuggets](https://www.kdnuggets.com/2018/06/top-20-python-libraries-data-science-2018.html) introduced 20 libraries of Python for data science. Here are five of the most important of libraries: 
 
@@ -152,26 +175,3 @@ Python continues to take leading positions in solving data science tasks and cha
 
 ### <a name="A-Fascinating-Guide-For-Machine-Learning"></a>A Fascinating Guide For Machine Learning:
 * [Technical Notes On Using Data Science & Artificial Intelligence: To Fight For Something That Matters](https://chrisalbon.com) by Chris Albon
-
-## <a name="Jupyter-and-IPython"></a>Jupyter and IPython:
-The [Jupyter](https://jupyter.org) is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more. Also, [IPython](https://ipython.org) provides a rich architecture for interactive computing with in multiple programming languages.
-
-* Install: [JupyterLab User Cheatsheet & Jupyter NoteBooks User Cheatsheet](https://docs.anaconda.com/_downloads/JupyterLab-Notebook-Cheatsheet.pdf)
-* [28 Jupyter Notebook Tips, Tricks, and Shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
-* [JupyterLab Extension](https://github.com/topics/jupyterlab-extension) 
-* [Awesome JupyterLab](https://github.com/mauhai/awesome-jupyterlab) by Hai Nguyen Mau
-* [Jupyter Lab extensions for Data Scientist](https://medium.com/@subpath/jupyter-lab-extensions-for-data-scientist-e0d97d529fc1) by Alexander Osipenko <br>
-* [IPython and Shell Commands](https://jakevdp.github.io/PythonDataScienceHandbook/01.05-ipython-and-shell-commands.html)
-* [IPython: Beyond Normal Python](https://www.oreilly.com/library/view/python-data-science/9781491912126/ch01.html)
-* [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
-* [Jupyter/IPython Notebook Quick Start Guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)
-* [Built-in Magic Commands](https://ipython.readthedocs.io/en/stable/interactive/magics.html)
-* [Defining Custom Magics](https://ipython.org/ipython-doc/dev/config/custommagics.html)
-* [Introducing IPython:](https://ipython.org/ipython-doc/3/interactive/tutorial.html) Differences between line-oriented and cell-oriented magic functions 
-* Paper: [Ten Simple Rules for Reproducible Research in Jupyter Notebooks](https://arxiv.org/pdf/1810.08055.pdf)
-* Talk: [Jupyter (Formerly IPython Notebook)](http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/6973/pdf/imm6973.pdf) by Finn Arup Nielsen <br>
-
-## <a name="Command-Line"></a>Command Line:
-* [Introduction to the Command Line](https://github.com/justmarkham/DAT8/blob/master/code/02_command_line.md) by Kevin Markham
-* Cheat Sheet: [Windows](http://www1.cs.columbia.edu/~sedwards/classes/2017/1102-spring/Command%20Prompt%20Cheatsheet.pdf) 
-* Cheat Sheet: [Linux & Mac](http://blog.markpearl.co.za/assets/documents/bash-cheatsheet.pdf)
