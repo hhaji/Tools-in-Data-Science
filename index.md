@@ -15,6 +15,7 @@ important tools in data science and also some tools to write or share your proje
   - [Videos](#Videos)
   - [Git Cheat Sheets](#Git-Cheat-Sheets)
   - [Slides](#Slides)
+  - [GitHub](#GitHub)
 - [Programming Languages](#Programming-Languages)
   - [Python](#Python)
   - [R](#R)
@@ -69,6 +70,7 @@ The [Jupyter](https://jupyter.org) is an open-source web application that allows
 [Git](https://git-scm.com) is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is [easy to learn](https://git-scm.com/doc) and has a [tiny footprint with lightning fast performance](https://git-scm.com/about/small-and-fast). 
 
 * [Resources to learn Git](https://try.github.io)
+* [Git Immersion](http://gitimmersion.com/) looks promising to practice Git.
 * Learn Git from [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 * [Practice Git Online](https://learngitbranching.js.org)
 * Learn Git from Scratch in [LabEx](https://labex.io/courses/learn-git-from-scratch)
@@ -89,6 +91,9 @@ The [Jupyter](https://jupyter.org) is an open-source web application that allows
 * [An Introduction to Git](https://elite.polito.it/files/courses/03FYZ/2017/slide/Git-01-intro.pdf) by Politecnico di Torino
 * [GIT for Beginners](https://people.irisa.fr/Anthony.Baire/git/git-for-beginners-handout.pdf) by Anthony Baire
 * [A Quick Guide to Git and Version Control](http://sites.utexas.edu/asa-student-chapter/files/2016/04/Grad_Skills_Seminar_11-17-17_Git_and_Version_Control.pdf) by Jay Johnson
+
+### <a name="GitHub"></a>GitHub:
+* To understand how to contribute on GitHub, learn first [forks and pull requests](http://www.dataschool.io/simple-guide-to-forks-in-github-and-git/).
 
 ## <a name="Programming-Languages"></a>Programming Languages: 
 ### <a name="Python"></a>Python:
