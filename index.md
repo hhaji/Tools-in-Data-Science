@@ -39,6 +39,7 @@ important tools in data science and also some tools to write or share your proje
 * [Introduction to the Command Line](https://github.com/justmarkham/DAT8/blob/master/code/02_command_line.md) by Kevin Markham
 * Cheat Sheet: [Windows](http://www1.cs.columbia.edu/~sedwards/classes/2017/1102-spring/Command%20Prompt%20Cheatsheet.pdf) 
 * Cheat Sheet: [Linux & Mac](http://blog.markpearl.co.za/assets/documents/bash-cheatsheet.pdf)
+* Book: [Data Science at the Command Line](http://shop.oreilly.com/product/0636920032823.do)
 
 ## <a name="Jupyter-and-IPython"></a>Jupyter and IPython:
 The [Jupyter](https://jupyter.org) is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more. Also, [IPython](https://ipython.org) provides a rich architecture for interactive computing with in multiple programming languages.
