@@ -70,6 +70,7 @@ The [Jupyter](https://jupyter.org) is an open-source web application that allows
 [Git](https://git-scm.com) is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is [easy to learn](https://git-scm.com/doc) and has a [tiny footprint with lightning fast performance](https://git-scm.com/about/small-and-fast). 
 
 * [Resources to learn Git](https://try.github.io)
+* [Pro Git](http://git-scm.com/book/en/v2) is an excellent book to learn Git.
 * [Git Immersion](http://gitimmersion.com/) looks promising to practice Git.
 * Learn Git from [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 * [Practice Git Online](https://learngitbranching.js.org)
