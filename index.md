@@ -73,6 +73,7 @@ The [Jupyter](https://jupyter.org) is an open-source web application that allows
 * [Resources to learn Git](https://try.github.io)
 * [Pro Git](http://git-scm.com/book/en/v2) is an excellent book to learn Git.
 * [Git Immersion](http://gitimmersion.com/) looks promising to practice Git.
+* [Git Quick Reference for Beginners](https://www.dataschool.io/git-quick-reference-for-beginners/)
 * Learn Git from [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 * [Practice Git Online](https://learngitbranching.js.org)
 * Learn Git from Scratch in [LabEx](https://labex.io/courses/learn-git-from-scratch)
