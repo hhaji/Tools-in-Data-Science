@@ -98,6 +98,7 @@ The [Jupyter](https://jupyter.org) is an open-source web application that allows
 * [A Quick Guide to Git and Version Control](http://sites.utexas.edu/asa-student-chapter/files/2016/04/Grad_Skills_Seminar_11-17-17_Git_and_Version_Control.pdf) by Jay Johnson
 
 ### <a name="GitHub"></a>GitHub:
+* [Tutorial: Introduction to Git and Github](https://www.dataquest.io/blog/tutorial-introduction-learn-git-github/)
 * To understand how to contribute on GitHub, learn first [forks and pull requests](http://www.dataschool.io/simple-guide-to-forks-in-github-and-git/).
 
 ## <a name="Programming-Languages"></a>Programming Languages: 
