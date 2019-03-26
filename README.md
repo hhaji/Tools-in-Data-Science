@@ -1,4 +1,4 @@
-The Webpage of [Tools in Data Science](https://hhaji.github.io/Tools-in-Data-Science/): https://hhaji.github.io/Tools-in-Data-Science/ <br>
+The Webpage of Tools in Data Science: https://hhaji.github.io/Tools-in-Data-Science/ <br>
 [Data Science Center](http://ds.sbu.ac.ir), [Shahid Beheshti University](http://www.sbu.ac.ir/)  
 
 ---
