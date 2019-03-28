@@ -92,7 +92,7 @@ The [Jupyter](https://jupyter.org) is an open-source web application that allows
  * :sparkles: [Parsclick (GitHub: In persian)](https://parsclick.net/course/PL3Y-E4YSE4wa_TUfN7G3rAMIiu6vIeepT) 
 
 ### <a name="Git-Cheat-Sheets"></a>Git Cheat Sheets:
-* :sparkles: [Git Cheat Sheet](https://github.com/hhaji/Tools-in-Data-Science/tree/master/Cheat%20Sheets/Git-Cheat-Sheet.md) 
+* :sparkles: [Git Cheat Sheet](https://github.com/hhaji/Tools-in-Data-Science/blob/master/Cheat%20Sheets/Git%20Cheat%20Sheet.md) 
 * :sparkles: [GitHub Training](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf) 
 * [Git Lab](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
 * [GitHub Education](https://education.github.com/git-cheat-sheet-education.pdf)
