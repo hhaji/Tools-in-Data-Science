@@ -122,7 +122,7 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
 * [How to Use the Python Debugger](http://fastml.com/how-to-use-the-python-debugger/) by Zygmunt
 * [Errors and Debugging](https://jakevdp.github.io/PythonDataScienceHandbook/01.06-errors-and-debugging.html) by Jake VanderPlas
 * [Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython) by Ujjwal Karn
-* :sparkles: [Python Generators](https://www.dataquest.io/blog/python-generators-tutorial/) by Christian Pascual :sparkles:
+* :sparkles: [Python Generators](https://www.dataquest.io/blog/python-generators-tutorial/) by Christian Pascual 
 
 ### <a name="R"></a>R:
 * :sparkles: Online Book: [R for Data Science](https://r4ds.had.co.nz/index.html) <br>
