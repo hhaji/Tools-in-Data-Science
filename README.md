@@ -41,6 +41,7 @@ important tools in data science and also some tools to write or share your proje
 * Cheat Sheet: [Windows](http://www1.cs.columbia.edu/~sedwards/classes/2017/1102-spring/Command%20Prompt%20Cheatsheet.pdf) 
 * Cheat Sheet: [Linux & Mac](http://blog.markpearl.co.za/assets/documents/bash-cheatsheet.pdf)
 * Book: [Data Science at the Command Line](http://shop.oreilly.com/product/0636920032823.do)
+* Blog: [12 Essential Command Line Tools for Data Scientists](https://www.dataquest.io/blog/top-12-essential-command-line-tools-for-data-scientists/) by Matthew Mayo 
 
 ## <a name="Jupyter-and-IPython"></a>Jupyter and IPython:
 The [Jupyter](https://jupyter.org) is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more. Also, [IPython](https://ipython.org) provides a rich architecture for interactive computing with in multiple programming languages.
@@ -118,6 +119,7 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
 * [How to Use the Python Debugger](http://fastml.com/how-to-use-the-python-debugger/) by Zygmunt
 * [Errors and Debugging](https://jakevdp.github.io/PythonDataScienceHandbook/01.06-errors-and-debugging.html) by Jake VanderPlas
 * [Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython) by Ujjwal Karn
+* [Python Generators](https://www.dataquest.io/blog/python-generators-tutorial/) by Christian Pascual
 
 ### <a name="R"></a>R:
 Online Book: [R for Data Science](https://r4ds.had.co.nz/index.html) <br>
