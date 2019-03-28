@@ -104,14 +104,14 @@ The [Jupyter](https://jupyter.org) is an open-source web application that allows
 
 ### <a name="GitHub"></a>GitHub:
 * [Tutorial: Introduction to Git and Github](https://www.dataquest.io/blog/tutorial-introduction-learn-git-github/)
-* :sparkles: To understand how to contribute on GitHub, learn first [forks and pull requests](http://www.dataschool.io/simple-guide-to-forks-in-github-and-git/). :sparkles:
+* :sparkles: To understand how to contribute on GitHub, learn first [forks and pull requests](http://www.dataschool.io/simple-guide-to-forks-in-github-and-git/). 
 
 ## <a name="Programming-Languages"></a>Programming Languages: 
 ### <a name="Python"></a>Python:
 You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website for getting started with coding. It offers easy to follow lessons, interspersed with quizzes to help you retain what you are learning). Also, we recommend the following references: 
 
-* :sparkles: [Real Python Tutorials](https://realpython.com) :sparkles:
-* :sparkles: [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-python-2e/), Second  Edition, by Allen B. Downey (free PDF book) :sparkles:
+* :sparkles: [Real Python Tutorials](https://realpython.com) 
+* :sparkles: [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-python-2e/), Second  Edition, by Allen B. Downey (free PDF book) 
 * [How to Think Like a Computer Scientist](http://interactivepython.org/courselib/static/thinkcspy/index.html) by Brad Miller and David Ranum
 * [Python for Everybody](https://www.py4e.com/book.php) by Charles R. Severance (free PDF book)
 * [Practical Programming (2nd edition): An Introduction to Computer Science Using Python 3](https://pragprog.com/book/gwpy2/practical-programming) by Paul Gries, Jennifer Campbell, and Jason Montojo, 2013.
@@ -125,19 +125,18 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
 * :sparkles: [Python Generators](https://www.dataquest.io/blog/python-generators-tutorial/) by Christian Pascual :sparkles:
 
 ### <a name="R"></a>R:
-Online Book: [R for Data Science](https://r4ds.had.co.nz/index.html) <br>
-
+* :sparkles: Online Book: [R for Data Science](https://r4ds.had.co.nz/index.html) <br>
 * [R Data Science Tutorials](https://github.com/ujjwalkarn/DataScienceR) by Ujjwal Karn
 * Data Science Wars: [Choosing R or Python for Data Analysis? An Infographic](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis)
 
 ### <a name="Project-Euler"></a>Project Euler:
-:sparkles: If you want to solve interesting problems to practice Python or R, then we recommend to solve the problems of [Project Euler](https://projecteuler.net/)! :sparkles:
+:sparkles: If you want to solve interesting problems to practice Python or R, then we recommend to solve the problems of [Project Euler](https://projecteuler.net/)! 
 
 ### <a name="Anaconda"></a>Anaconda:
 [Anaconda Distribution](https://www.anaconda.com/what-is-anaconda/): With over 6 million users, the open source Anaconda Distribution is the fastest and easiest way to do Python and R data science and machine learning on Linux, Windows, and Mac OS X. It's the industry standard for developing, testing, and training on a single machine.
 
 ### <a name="Tutorials-and-Jupyter-Notebooks"></a>Tutorials and Jupyter Notebooks:
-* :sparkles: [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) :sparkles: <br>
+* :sparkles: [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
 * [Real Python Tutorials](https://realpython.com)
 * [Python (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/python) by Colin Morris <br>
 * [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) <br>
@@ -151,7 +150,7 @@ Python continues to take leading positions in solving data science tasks and cha
 ### <a name="Numpy"></a>Numpy:
 [NumPy](http://www.numpy.org) is the fundamental package for scientific computing with Python. Besides its obvious scientific uses, NumPy can also be used as an efficient multi-dimensional container of generic data. Arbitrary data-types can be defined. This allows NumPy to seamlessly and speedily integrate with a wide variety of databases.<br>
 
-* :sparkles: [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) :sparkles: <br>
+* :sparkles: [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
 * [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
 * [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/) by Justin Johnson <br>
 * [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) <br>
@@ -161,7 +160,7 @@ Python continues to take leading positions in solving data science tasks and cha
 ### <a name="Pandas"></a>Pandas:
 [Pandas](https://pandas.pydata.org) is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.<br>
 
-* :sparkles: [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin :sparkles: <br>
+* :sparkles: [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin  <br>
 * [Pandas (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/pandas) by Aleksey Bilogur <br>
 * [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) <br>
 * [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html) <br>
@@ -174,7 +173,7 @@ Python continues to take leading positions in solving data science tasks and cha
 ### <a name="Matplotlib"></a>Matplotlib:
 [Matplotlib](https://matplotlib.org) is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. Matplotlib can be used in Python scripts, the Python and IPython shells, the Jupyter notebook, web application servers, and four graphical user interface toolkits.
 
-* :sparkles: [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin :sparkles: <br>
+* :sparkles: [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
 
 - **Exercises:** Practice Matplotlib in [LabEx](https://labex.io/courses/draw-2d-and-3d-graphics-by-matplotlib)
@@ -182,13 +181,15 @@ Python continues to take leading positions in solving data science tasks and cha
 ### <a name="Scikit-Learn"></a>Scikit-Learn:
 [Scikit-Learn](https://scikit-learn.org) is a simple and efficient tools for data mining and data analysis. It was built on NumPy, SciPy, and Matplotlib. 
 
-* :sparkles: [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin :sparkles: <br>
+* :sparkles: [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
 
 ### <a name="SciPy"></a>SciPy:
 [SciPy](https://github.com/scipy/scipy) (pronounced "Sigh Pie") is open-source software for mathematics, science, and engineering. It includes modules for statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more.
 
-* :sparkles: [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) :sparkles: <br>
+* :sparkles: [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
 * [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
 
+```javascript
 ### <a name="A-Fascinating-Guide-For-Machine-Learning"></a>A Fascinating Guide For Machine Learning:
-* :sparkles: [Technical Notes On Using Data Science & Artificial Intelligence: To Fight For Something That Matters](https://chrisalbon.com) by Chris Albon :sparkles:
+* :sparkles: [Technical Notes On Using Data Science & Artificial Intelligence: To Fight For Something That Matters](https://chrisalbon.com) by Chris Albon
+```
