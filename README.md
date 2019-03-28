@@ -13,6 +13,7 @@ important tools in data science and also some tools to write or share your proje
 - [Jupyter and IPython](#Jupyter-and-IPython)
 - [Markdown](#Markdown) 
 - [Git](#Git)
+  - [Git Resources](#Git-Resources)
   - [Videos](#Videos)
   - [Git Cheat Sheets](#Git-Cheat-Sheets)
   - [Slides](#Slides)
@@ -37,9 +38,9 @@ important tools in data science and also some tools to write or share your proje
 ---
 
 ## <a name="Command-Line"></a>Command Line:
-* [Introduction to the Command Line](https://github.com/justmarkham/DAT8/blob/master/code/02_command_line.md) by Kevin Markham
-* Cheat Sheet: [Windows](http://www1.cs.columbia.edu/~sedwards/classes/2017/1102-spring/Command%20Prompt%20Cheatsheet.pdf) 
-* Cheat Sheet: [Linux & Mac](http://blog.markpearl.co.za/assets/documents/bash-cheatsheet.pdf)
+* :sparkles: [Introduction to the Command Line](https://github.com/justmarkham/DAT8/blob/master/code/02_command_line.md) by Kevin Markham :sparkles:
+* :sparkles: Cheat Sheet: [Windows](http://www1.cs.columbia.edu/~sedwards/classes/2017/1102-spring/Command%20Prompt%20Cheatsheet.pdf) :sparkles:
+* :sparkles: Cheat Sheet: [Linux & Mac](http://blog.markpearl.co.za/assets/documents/bash-cheatsheet.pdf) :sparkles:
 * Book: [Data Science at the Command Line](http://shop.oreilly.com/product/0636920032823.do)
 * Blog: [12 Essential Command Line Tools for Data Scientists](https://www.dataquest.io/blog/top-12-essential-command-line-tools-for-data-scientists/) by Matthew Mayo 
 
@@ -47,10 +48,10 @@ important tools in data science and also some tools to write or share your proje
 The [Jupyter](https://jupyter.org) is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more. Also, [IPython](https://ipython.org) provides a rich architecture for interactive computing with in multiple programming languages.
 
 * Install: [JupyterLab User Cheatsheet & Jupyter NoteBooks User Cheatsheet](https://docs.anaconda.com/_downloads/JupyterLab-Notebook-Cheatsheet.pdf)
-* [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
-* [Advanced Jupyter Notebooks: A Tutorial](https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/)
-* [28 Jupyter Notebook Tips, Tricks, and Shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
-* [JupyterLab Extension](https://github.com/topics/jupyterlab-extension) 
+* :sparkles: [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) :sparkles:
+* :sparkles: [Advanced Jupyter Notebooks: A Tutorial](https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/) :sparkles:
+* :sparkles: [28 Jupyter Notebook Tips, Tricks, and Shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/) :sparkles:
+* :sparkles: [JupyterLab Extension](https://github.com/topics/jupyterlab-extension) :sparkles:
 * [Awesome JupyterLab](https://github.com/mauhai/awesome-jupyterlab) by Hai Nguyen Mau
 * [Jupyter Lab extensions for Data Scientist](https://medium.com/@subpath/jupyter-lab-extensions-for-data-scientist-e0d97d529fc1) by Alexander Osipenko <br>
 * [IPython and Shell Commands](https://jakevdp.github.io/PythonDataScienceHandbook/01.05-ipython-and-shell-commands.html)
@@ -66,8 +67,8 @@ The [Jupyter](https://jupyter.org) is an open-source web application that allows
 ## <a name="Markdown"></a>Markdown:
 [Markdown](https://www.markdownguide.org/getting-started) is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
 
-:sparkles: [Markdown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
-* [Learn Markdown Online](https://commonmark.org/help/tutorial/)
+* :sparkles: [Learn Markdown Online](https://commonmark.org/help/tutorial/) :sparkles:
+* :sparkles: [Markdown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) :sparkles:
 * [Getting Started with R Markdown](https://ourcodingclub.github.io/2016/11/24/rmarkdown-1.html)
 * [Word to Markdown](https://word-to-markdown.herokuapp.com)
 * [Complete List of GitHub Markdown Emoji Markup](https://gist.github.com/rxaviers/7360908) by Rafael Xavier de Souza
@@ -75,6 +76,7 @@ The [Jupyter](https://jupyter.org) is an open-source web application that allows
 ## <a name="Git"></a>Git
 [Git](https://git-scm.com) is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is [easy to learn](https://git-scm.com/doc) and has a [tiny footprint with lightning fast performance](https://git-scm.com/about/small-and-fast). 
 
+### <a name="Git-Resources"></a>Git Resources:
 * [Resources to learn Git](https://try.github.io)
 * [Pro Git](http://git-scm.com/book/en/v2) is an excellent book to learn Git.
 * [Git Immersion](http://gitimmersion.com/) looks promising to practice Git.
@@ -86,12 +88,12 @@ The [Jupyter](https://jupyter.org) is an open-source web application that allows
 * [Git Tutorial](http://www.cs.columbia.edu/~sedwards/classes/2013/4840/git-tutorial.pdf) by Jae Woo Lee and Stephen A. Edwards
 
 ### <a name="Videos"></a>Videos:
- * [Parsclick (Git: In Persian)](https://parsclick.net/course/PL3Y-E4YSE4wYFlcomsBtJy1nCu3jclA8L)
- * [Parsclick (GitHub: In persian)](https://parsclick.net/course/PL3Y-E4YSE4wa_TUfN7G3rAMIiu6vIeepT)
+ * :sparkles: [Parsclick (Git: In Persian)](https://parsclick.net/course/PL3Y-E4YSE4wYFlcomsBtJy1nCu3jclA8L) :sparkles:
+ * :sparkles: [Parsclick (GitHub: In persian)](https://parsclick.net/course/PL3Y-E4YSE4wa_TUfN7G3rAMIiu6vIeepT) :sparkles:
 
 ### <a name="Git-Cheat-Sheets"></a>Git Cheat Sheets:
-* [Git Cheat Sheet](https://github.com/hhaji/Tools-in-Data-Science/blob/master/Cheat%20Sheets/Git-Cheat-Sheet.md)
-* [GitHub Training](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+* :sparkles: [Git Cheat Sheet](https://github.com/hhaji/Tools-in-Data-Science/blob/master/Cheat%20Sheets/Git-Cheat-Sheet.md) :sparkles:
+* :sparkles: [GitHub Training](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf) :sparkles:
 * [Git Lab](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
 * [GitHub Education](https://education.github.com/git-cheat-sheet-education.pdf)
 
@@ -102,14 +104,14 @@ The [Jupyter](https://jupyter.org) is an open-source web application that allows
 
 ### <a name="GitHub"></a>GitHub:
 * [Tutorial: Introduction to Git and Github](https://www.dataquest.io/blog/tutorial-introduction-learn-git-github/)
-* To understand how to contribute on GitHub, learn first [forks and pull requests](http://www.dataschool.io/simple-guide-to-forks-in-github-and-git/).
+* :sparkles: To understand how to contribute on GitHub, learn first [forks and pull requests](http://www.dataschool.io/simple-guide-to-forks-in-github-and-git/). :sparkles:
 
 ## <a name="Programming-Languages"></a>Programming Languages: 
 ### <a name="Python"></a>Python:
 You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website for getting started with coding. It offers easy to follow lessons, interspersed with quizzes to help you retain what you are learning). Also, we recommend the following references: 
 
-* [Real Python Tutorials](https://realpython.com)
-* [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-python-2e/), Second  Edition, by Allen B. Downey (free PDF book)
+* :sparkles: [Real Python Tutorials](https://realpython.com) :sparkles:
+* :sparkles: [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-python-2e/), Second  Edition, by Allen B. Downey (free PDF book) :sparkles:
 * [How to Think Like a Computer Scientist](http://interactivepython.org/courselib/static/thinkcspy/index.html) by Brad Miller and David Ranum
 * [Python for Everybody](https://www.py4e.com/book.php) by Charles R. Severance (free PDF book)
 * [Practical Programming (2nd edition): An Introduction to Computer Science Using Python 3](https://pragprog.com/book/gwpy2/practical-programming) by Paul Gries, Jennifer Campbell, and Jason Montojo, 2013.
@@ -120,7 +122,7 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
 * [How to Use the Python Debugger](http://fastml.com/how-to-use-the-python-debugger/) by Zygmunt
 * [Errors and Debugging](https://jakevdp.github.io/PythonDataScienceHandbook/01.06-errors-and-debugging.html) by Jake VanderPlas
 * [Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython) by Ujjwal Karn
-* [Python Generators](https://www.dataquest.io/blog/python-generators-tutorial/) by Christian Pascual
+* :sparkles: [Python Generators](https://www.dataquest.io/blog/python-generators-tutorial/) by Christian Pascual :sparkles:
 
 ### <a name="R"></a>R:
 Online Book: [R for Data Science](https://r4ds.had.co.nz/index.html) <br>
@@ -129,13 +131,13 @@ Online Book: [R for Data Science](https://r4ds.had.co.nz/index.html) <br>
 * Data Science Wars: [Choosing R or Python for Data Analysis? An Infographic](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis)
 
 ### <a name="Project-Euler"></a>Project Euler:
-If you want to solve interesting problems to practice Python or R, then we recommend to solve the problems of [Project Euler](https://projecteuler.net/)!
+:sparkles: If you want to solve interesting problems to practice Python or R, then we recommend to solve the problems of [Project Euler](https://projecteuler.net/)! :sparkles:
 
 ### <a name="Anaconda"></a>Anaconda:
 [Anaconda Distribution](https://www.anaconda.com/what-is-anaconda/): With over 6 million users, the open source Anaconda Distribution is the fastest and easiest way to do Python and R data science and machine learning on Linux, Windows, and Mac OS X. It's the industry standard for developing, testing, and training on a single machine.
 
 ### <a name="Tutorials-and-Jupyter-Notebooks"></a>Tutorials and Jupyter Notebooks:
-* [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
+* :sparkles: [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) :sparkles: <br>
 * [Real Python Tutorials](https://realpython.com)
 * [Python (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/python) by Colin Morris <br>
 * [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) <br>
@@ -149,7 +151,7 @@ Python continues to take leading positions in solving data science tasks and cha
 ### <a name="Numpy"></a>Numpy:
 [NumPy](http://www.numpy.org) is the fundamental package for scientific computing with Python. Besides its obvious scientific uses, NumPy can also be used as an efficient multi-dimensional container of generic data. Arbitrary data-types can be defined. This allows NumPy to seamlessly and speedily integrate with a wide variety of databases.<br>
 
-* [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
+* :sparkles: [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) :sparkles: <br>
 * [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
 * [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/) by Justin Johnson <br>
 * [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) <br>
@@ -159,7 +161,7 @@ Python continues to take leading positions in solving data science tasks and cha
 ### <a name="Pandas"></a>Pandas:
 [Pandas](https://pandas.pydata.org) is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.<br>
 
-* [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
+* :sparkles: [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin :sparkles: <br>
 * [Pandas (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/pandas) by Aleksey Bilogur <br>
 * [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) <br>
 * [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html) <br>
@@ -172,7 +174,7 @@ Python continues to take leading positions in solving data science tasks and cha
 ### <a name="Matplotlib"></a>Matplotlib:
 [Matplotlib](https://matplotlib.org) is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. Matplotlib can be used in Python scripts, the Python and IPython shells, the Jupyter notebook, web application servers, and four graphical user interface toolkits.
 
-* [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
+* :sparkles: [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin :sparkles: <br>
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
 
 - **Exercises:** Practice Matplotlib in [LabEx](https://labex.io/courses/draw-2d-and-3d-graphics-by-matplotlib)
@@ -180,13 +182,13 @@ Python continues to take leading positions in solving data science tasks and cha
 ### <a name="Scikit-Learn"></a>Scikit-Learn:
 [Scikit-Learn](https://scikit-learn.org) is a simple and efficient tools for data mining and data analysis. It was built on NumPy, SciPy, and Matplotlib. 
 
-* [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
+* :sparkles: [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin :sparkles: <br>
 
 ### <a name="SciPy"></a>SciPy:
 [SciPy](https://github.com/scipy/scipy) (pronounced "Sigh Pie") is open-source software for mathematics, science, and engineering. It includes modules for statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more.
 
-* [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
+* :sparkles: [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) :sparkles: <br>
 * [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
 
 ### <a name="A-Fascinating-Guide-For-Machine-Learning"></a>A Fascinating Guide For Machine Learning:
-* [Technical Notes On Using Data Science & Artificial Intelligence: To Fight For Something That Matters](https://chrisalbon.com) by Chris Albon
+* :sparkles: [Technical Notes On Using Data Science & Artificial Intelligence: To Fight For Something That Matters](https://chrisalbon.com) by Chris Albon :sparkles:
