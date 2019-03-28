@@ -38,9 +38,9 @@ important tools in data science and also some tools to write or share your proje
 ---
 
 ## <a name="Command-Line"></a>Command Line:
-* :sparkles: [Introduction to the Command Line](https://github.com/justmarkham/DAT8/blob/master/code/02_command_line.md) by Kevin Markham :sparkles:
-* :sparkles: Cheat Sheet: [Windows](http://www1.cs.columbia.edu/~sedwards/classes/2017/1102-spring/Command%20Prompt%20Cheatsheet.pdf) :sparkles:
-* :sparkles: Cheat Sheet: [Linux & Mac](http://blog.markpearl.co.za/assets/documents/bash-cheatsheet.pdf) :sparkles:
+* :sparkles: [Introduction to the Command Line](https://github.com/justmarkham/DAT8/blob/master/code/02_command_line.md) by Kevin Markham 
+* :sparkles: Cheat Sheet: [Windows](http://www1.cs.columbia.edu/~sedwards/classes/2017/1102-spring/Command%20Prompt%20Cheatsheet.pdf) 
+* :sparkles: Cheat Sheet: [Linux & Mac](http://blog.markpearl.co.za/assets/documents/bash-cheatsheet.pdf) 
 * Book: [Data Science at the Command Line](http://shop.oreilly.com/product/0636920032823.do)
 * Blog: [12 Essential Command Line Tools for Data Scientists](https://www.dataquest.io/blog/top-12-essential-command-line-tools-for-data-scientists/) by Matthew Mayo 
 
@@ -48,10 +48,10 @@ important tools in data science and also some tools to write or share your proje
 The [Jupyter](https://jupyter.org) is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more. Also, [IPython](https://ipython.org) provides a rich architecture for interactive computing with in multiple programming languages.
 
 * Install: [JupyterLab User Cheatsheet & Jupyter NoteBooks User Cheatsheet](https://docs.anaconda.com/_downloads/JupyterLab-Notebook-Cheatsheet.pdf)
-* :sparkles: [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) :sparkles:
-* :sparkles: [Advanced Jupyter Notebooks: A Tutorial](https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/) :sparkles:
-* :sparkles: [28 Jupyter Notebook Tips, Tricks, and Shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/) :sparkles:
-* :sparkles: [JupyterLab Extension](https://github.com/topics/jupyterlab-extension) :sparkles:
+* :sparkles: [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) 
+* :sparkles: [Advanced Jupyter Notebooks: A Tutorial](https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/) 
+* :sparkles: [28 Jupyter Notebook Tips, Tricks, and Shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/) 
+* :sparkles: [JupyterLab Extension](https://github.com/topics/jupyterlab-extension) 
 * [Awesome JupyterLab](https://github.com/mauhai/awesome-jupyterlab) by Hai Nguyen Mau
 * [Jupyter Lab extensions for Data Scientist](https://medium.com/@subpath/jupyter-lab-extensions-for-data-scientist-e0d97d529fc1) by Alexander Osipenko <br>
 * [IPython and Shell Commands](https://jakevdp.github.io/PythonDataScienceHandbook/01.05-ipython-and-shell-commands.html)
@@ -67,8 +67,8 @@ The [Jupyter](https://jupyter.org) is an open-source web application that allows
 ## <a name="Markdown"></a>Markdown:
 [Markdown](https://www.markdownguide.org/getting-started) is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
 
-* :sparkles: [Learn Markdown Online](https://commonmark.org/help/tutorial/) :sparkles:
-* :sparkles: [Markdown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) :sparkles:
+* :sparkles: [Learn Markdown Online](https://commonmark.org/help/tutorial/) 
+* :sparkles: Cheat Sheet: [Markdown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) 
 * [Getting Started with R Markdown](https://ourcodingclub.github.io/2016/11/24/rmarkdown-1.html)
 * [Word to Markdown](https://word-to-markdown.herokuapp.com)
 * [Complete List of GitHub Markdown Emoji Markup](https://gist.github.com/rxaviers/7360908) by Rafael Xavier de Souza
@@ -88,12 +88,12 @@ The [Jupyter](https://jupyter.org) is an open-source web application that allows
 * [Git Tutorial](http://www.cs.columbia.edu/~sedwards/classes/2013/4840/git-tutorial.pdf) by Jae Woo Lee and Stephen A. Edwards
 
 ### <a name="Videos"></a>Videos:
- * :sparkles: [Parsclick (Git: In Persian)](https://parsclick.net/course/PL3Y-E4YSE4wYFlcomsBtJy1nCu3jclA8L) :sparkles:
- * :sparkles: [Parsclick (GitHub: In persian)](https://parsclick.net/course/PL3Y-E4YSE4wa_TUfN7G3rAMIiu6vIeepT) :sparkles:
+ * :sparkles: [Parsclick (Git: In Persian)](https://parsclick.net/course/PL3Y-E4YSE4wYFlcomsBtJy1nCu3jclA8L) 
+ * :sparkles: [Parsclick (GitHub: In persian)](https://parsclick.net/course/PL3Y-E4YSE4wa_TUfN7G3rAMIiu6vIeepT) 
 
 ### <a name="Git-Cheat-Sheets"></a>Git Cheat Sheets:
-* :sparkles: [Git Cheat Sheet](https://github.com/hhaji/Tools-in-Data-Science/blob/master/Cheat%20Sheets/Git-Cheat-Sheet.md) :sparkles:
-* :sparkles: [GitHub Training](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf) :sparkles:
+* :sparkles: [Git Cheat Sheet](https://github.com/hhaji/Tools-in-Data-Science/blob/master/Cheat%20Sheets/Git-Cheat-Sheet.md) 
+* :sparkles: [GitHub Training](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf) 
 * [Git Lab](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
 * [GitHub Education](https://education.github.com/git-cheat-sheet-education.pdf)
 
