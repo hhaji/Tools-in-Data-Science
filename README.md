@@ -66,7 +66,7 @@ The [Jupyter](https://jupyter.org) is an open-source web application that allows
 ## <a name="Markdown"></a>Markdown:
 [Markdown](https://www.markdownguide.org/getting-started) is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
 
-* :sparkles: [Markdown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+:sparkles: [Markdown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 * [Learn Markdown Online](https://commonmark.org/help/tutorial/)
 * [Getting Started with R Markdown](https://ourcodingclub.github.io/2016/11/24/rmarkdown-1.html)
 * [Word to Markdown](https://word-to-markdown.herokuapp.com)
