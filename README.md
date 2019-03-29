@@ -112,6 +112,7 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
 
 * :sparkles: [Real Python Tutorials](https://realpython.com) 
 * :sparkles: [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-python-2e/), Second  Edition, by Allen B. Downey (free PDF book) 
+* :sparkles: [Regular Expressions for Data Scientists](https://www.dataquest.io/blog/regular-expressions-data-scientists/) by Alex Yang 
 * [How to Think Like a Computer Scientist](http://interactivepython.org/courselib/static/thinkcspy/index.html) by Brad Miller and David Ranum
 * [Python for Everybody](https://www.py4e.com/book.php) by Charles R. Severance (free PDF book)
 * [Practical Programming (2nd edition): An Introduction to Computer Science Using Python 3](https://pragprog.com/book/gwpy2/practical-programming) by Paul Gries, Jennifer Campbell, and Jason Montojo, 2013.
