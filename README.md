@@ -162,6 +162,7 @@ Python continues to take leading positions in solving data science tasks and cha
 [Pandas](https://pandas.pydata.org) is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.<br>
 
 * :sparkles: [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin  <br>
+* :sparkles: [Using Excel with Pandas](https://www.dataquest.io/blog/excel-and-pandas/) by Harish Garg <br>
 * [Pandas (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/pandas) by Aleksey Bilogur <br>
 * [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) <br>
 * [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html) <br>
