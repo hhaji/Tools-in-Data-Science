@@ -110,16 +110,16 @@ The [Jupyter](https://jupyter.org) is an open-source web application that allows
 ### <a name="Python"></a>Python:
 You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website for getting started with coding. It offers easy to follow lessons, interspersed with quizzes to help you retain what you are learning). Also, we recommend the following references: 
 
-* :sparkles: [Real Python Tutorials](https://realpython.com) 
 * :sparkles: Book: [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-python-2e/), Second  Edition, by Allen B. Downey (free PDF book) 
+* :sparkles: [Python3 Tutorial:](https://www.python-course.eu/python3_course.php) This online Python course was created and is maintained by Bernd Klein, an experienced Python trainer, giving training classes all over the world. It is an interesting introduction into Python for beginners and intermediate learners with lots of examples and exercises! 
 * :sparkles: [Regular Expressions for Data Scientists](https://www.dataquest.io/blog/regular-expressions-data-scientists/) by Alex Yang 
 * :sparkles: [Python Generators](https://www.dataquest.io/blog/python-generators-tutorial/) by Christian Pascual 
+* :sparkles: [Real Python Tutorials](https://realpython.com) 
 * Book: [How to Think Like a Computer Scientist](http://interactivepython.org/courselib/static/thinkcspy/index.html) by Brad Miller and David Ranum
 * Book: [Python for Everybody](https://www.py4e.com/book.php) by Charles R. Severance (free PDF book)
 * Book: [Practical Programming (2nd edition): An Introduction to Computer Science Using Python 3](https://pragprog.com/book/gwpy2/practical-programming) by Paul Gries, Jennifer Campbell, and Jason Montojo, 2013.
 * Book: The Python Tutorial ([available from the Python website](https://docs.python.org/3.6/tutorial/))
 * Learn Python from [LabEx](https://labex.io/courses/intro-to-python-3)
-* [Python3 Tutorial:](https://www.python-course.eu/python3_course.php) This online Python course was created and is maintained by Bernd Klein, an experienced Python trainer, giving training classes all over the world. It is an interesting introduction into Python for beginners and intermediate learners with lots of examples and exercises! 
 * [Useful Functions, Tutorials, and Other Python-Related Things](https://github.com/rasbt/python_reference)
 * [How to Use the Python Debugger](http://fastml.com/how-to-use-the-python-debugger/) by Zygmunt
 * [Errors and Debugging](https://jakevdp.github.io/PythonDataScienceHandbook/01.06-errors-and-debugging.html) by Jake VanderPlas
