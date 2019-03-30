@@ -23,14 +23,13 @@ important tools in data science and also some tools to write or share your proje
   - [R](#R)
   - [Project Euler](#Project-Euler)
   - [Anaconda](#Anaconda) (Installing Python using Anaconda)
-  - [Tutorials and Jupyter Notebooks](#Tutorials-and-Jupyter-Notebooks)
+  - [SQL](#SQL)
 - [Python Libraries for Data Science](#Python-Libraries-for-Data-Science) 
   - [Numpy](#Numpy)
   - [Pandas](#Pandas)
   - [Matplotlib](#Matplotlib)
   - [Scikit-Learn](#Scikit-Learn)
   - [SciPy](#SciPy)
-  - [SQL](#SQL)
   - [A Fascinating Guide For Machine Learning](#A-Fascinating-Guide-For-Machine-Learning)
 - Files
   - [Cheat Sheets](https://hhaji.github.io/Tools-in-Data-Science/Cheat%20Sheets)
@@ -136,14 +135,12 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
 ### <a name="Anaconda"></a>Anaconda:
 [Anaconda Distribution](https://www.anaconda.com/what-is-anaconda/): With over 6 million users, the open source Anaconda Distribution is the fastest and easiest way to do Python and R data science and machine learning on Linux, Windows, and Mac OS X. It's the industry standard for developing, testing, and training on a single machine.
 
-### <a name="Tutorials-and-Jupyter-Notebooks"></a>Tutorials and Jupyter Notebooks:
-* :sparkles: [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
-* [Real Python Tutorials](https://realpython.com)
-* [Python (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/python) by Colin Morris <br>
-* [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) <br>
-
-* [Getting started with conda](https://conda.io/docs/user-guide/getting-started.html)
+* [Getting Started with Conda](https://conda.io/docs/user-guide/getting-started.html)
 * [Instalation](https://docs.anaconda.com/anaconda/install/)
+
+### <a name="SQL"></a>SQL:
+SQL is a a domain-specific language for managing data in databases.
+* [SQL Fundamentals](https://www.dataquest.io/blog/sql-fundamentals/) by Srini Kadamati <br>
 
 ## <a name="Python-Libraries-for-Data-Science"></a>Python Libraries for Data Science:
 Python continues to take leading positions in solving data science tasks and challenges. [Kdnuggets](https://www.kdnuggets.com/2018/06/top-20-python-libraries-data-science-2018.html) introduced 20 libraries of Python for data science. Here are five of the most important of libraries: 
@@ -192,9 +189,6 @@ Python continues to take leading positions in solving data science tasks and cha
 
 * :sparkles: [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
 * [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
-
-### <a name="SQL"></a>SQL:
-* [SQL Fundamentals](https://www.dataquest.io/blog/sql-fundamentals/) by Srini Kadamati <br>
 
 ### <a name="A-Fascinating-Guide-For-Machine-Learning"></a>A Fascinating Guide For Machine Learning:
 * :sparkles: [Technical Notes On Using Data Science & Artificial Intelligence: To Fight For Something That Matters](https://chrisalbon.com) by Chris Albon
