@@ -30,6 +30,7 @@ important tools in data science and also some tools to write or share your proje
   - [Matplotlib](#Matplotlib)
   - [Scikit-Learn](#Scikit-Learn)
   - [SciPy](#SciPy)
+  - [SQL](#SQL)
   - [A Fascinating Guide For Machine Learning](#A-Fascinating-Guide-For-Machine-Learning)
 - Files
   - [Cheat Sheets](https://hhaji.github.io/Tools-in-Data-Science/Cheat%20Sheets)
@@ -192,5 +193,9 @@ Python continues to take leading positions in solving data science tasks and cha
 * :sparkles: [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
 * [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
 
+### <a name="SQL"></a>SQL:
+* [SQL Fundamentals](https://www.dataquest.io/blog/sql-fundamentals/) by Srini Kadamati <br>
+
 ### <a name="A-Fascinating-Guide-For-Machine-Learning"></a>A Fascinating Guide For Machine Learning:
 * :sparkles: [Technical Notes On Using Data Science & Artificial Intelligence: To Fight For Something That Matters](https://chrisalbon.com) by Chris Albon
+
