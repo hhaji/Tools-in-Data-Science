@@ -177,6 +177,7 @@ Python continues to take leading positions in solving data science tasks and cha
 
 * :sparkles: [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
+* [How to Generate FiveThirtyEight Graphs in Python](https://www.dataquest.io/blog/making-538-plots/) by Alex Olteanu <br>
 
 - **Exercises:** Practice Matplotlib in [LabEx](https://labex.io/courses/draw-2d-and-3d-graphics-by-matplotlib)
 
