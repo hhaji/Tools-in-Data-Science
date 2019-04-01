@@ -53,7 +53,8 @@ The [Jupyter](https://jupyter.org) is an open-source web application that allows
 * :sparkles: [28 Jupyter Notebook Tips, Tricks, and Shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/) by Josh Devlin 
 * :sparkles: [JupyterLab Extension](https://github.com/topics/jupyterlab-extension) 
 * [Awesome JupyterLab](https://github.com/mauhai/awesome-jupyterlab) by Hai Nguyen Mau
-* [Jupyter Lab extensions for Data Scientist](https://medium.com/@subpath/jupyter-lab-extensions-for-data-scientist-e0d97d529fc1) by Alexander Osipenko <br>
+* [Jupyter Lab extensions for Data Scientist](https://medium.com/@subpath/jupyter-lab-extensions-for-data-scientist-e0d97d529fc1) by Alexander Osipenko 
+* [Six Easy Ways to Run Your Jupyter Notebook in the Cloud](https://www.dataschool.io/cloud-services-for-jupyter-notebook/)   
 * [IPython and Shell Commands](https://jakevdp.github.io/PythonDataScienceHandbook/01.05-ipython-and-shell-commands.html)
 * [IPython: Beyond Normal Python](https://www.oreilly.com/library/view/python-data-science/9781491912126/ch01.html)
 * [Jupyter/IPython Notebook Quick Start Guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)
