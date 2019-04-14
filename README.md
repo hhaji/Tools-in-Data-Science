@@ -153,6 +153,7 @@ Python continues to take leading positions in solving data science tasks and cha
 * [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
 * [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/) by Justin Johnson <br>
 * [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) <br>
+* Tutorial: [An Essential Guide to Numpy for Machine Learning in Python](http://onlinetutorials.today/numpy/an-essential-guide-to-numpy-for-machine-learning-in-python/) by Siddharth Dikshit <br>
 * NoteBook: [How Fast are NumPy Operations Compared to Regular Python Math?](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/How%20fast%20are%20NumPy%20ops.ipynb) by Tirthajyoti Sarkar <br>
 
 - **Exercises:** Practice Numpy in [LabEx](https://labex.io/courses/100-numpy-exercises)
