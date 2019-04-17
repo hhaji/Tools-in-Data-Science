@@ -129,6 +129,8 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
 * :sparkles: Online Book: [R for Data Science](https://r4ds.had.co.nz/index.html) <br>
 * [R Data Science Tutorials](https://github.com/ujjwalkarn/DataScienceR) by Ujjwal Karn
 * Data Science Wars: [Choosing R or Python for Data Analysis? An Infographic](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis)
+* [An Introduction to Machine Learning with R](https://lgatto.github.io/IntroMachineLearningWithR/index.html) Laurent Gatto <br>
+* [R-Statistics](https://r-statistics.co) by Selva Prabhakaran <br>
 
 ### <a name="Project-Euler"></a>Project Euler:
 :sparkles: If you want to solve interesting problems to practice Python or R, then we recommend to solve the problems of [Project Euler](https://projecteuler.net/)! 
