@@ -128,6 +128,7 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
 
 ### <a name="R"></a>R:
 * :sparkles: Command Line: [The Workspace](https://www.statmethods.net/interface/workspace.html) <br>
+* :sparkles: Online Book: [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/) by Nathaniel D. Phillips <br>
 * :sparkles: Online Book: [R for Data Science](https://r4ds.had.co.nz/index.html) <br>
 * [R Tutorial for Beginners: Learning R Programming](https://www.guru99.com/r-tutorial.html) <br>
 * [R Data Science Tutorials](https://github.com/ujjwalkarn/DataScienceR) by Ujjwal Karn
