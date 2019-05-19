@@ -122,6 +122,7 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
 * Book: The Python Tutorial ([available from the Python website](https://docs.python.org/3.6/tutorial/))
 * Learn Python from [LabEx](https://labex.io/courses/intro-to-python-3)
 * [Useful Functions, Tutorials, and Other Python-Related Things](https://github.com/rasbt/python_reference)
+* :sparkles: [Python Debugging with pdb](https://www.machinelearningplus.com/python/python-debugging/)
 * [How to Use the Python Debugger](http://fastml.com/how-to-use-the-python-debugger/) by Zygmunt
 * [Errors and Debugging](https://jakevdp.github.io/PythonDataScienceHandbook/01.06-errors-and-debugging.html) by Jake VanderPlas
 * [Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython) by Ujjwal Karn
