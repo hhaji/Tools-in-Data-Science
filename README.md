@@ -136,6 +136,7 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
 * Data Science Wars: [Choosing R or Python for Data Analysis? An Infographic](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis)
 * [An Introduction to Machine Learning with R](https://lgatto.github.io/IntroMachineLearningWithR/index.html) Laurent Gatto <br>
 * [R-Statistics](https://r-statistics.co) by Selva Prabhakaran <br>
+* Blog: [Caret Package – A Practical Guide to Machine Learning in R](https://www.machinelearningplus.com/machine-learning/caret-package/) <br>
 
 ### <a name="Project-Euler"></a>Project Euler:
 :sparkles: If you want to solve interesting problems to practice Python or R, then we recommend to solve the problems of [Project Euler](https://projecteuler.net/)! 
