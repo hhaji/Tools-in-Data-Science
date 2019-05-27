@@ -21,6 +21,7 @@ important tools in data science and also some tools to write or share your proje
 - [Programming Languages](#Programming-Languages)
   - [Python](#Python)
   - [R](#R)
+   - [Machine Learning in R](#MLR)
   - [Project Euler](#Project-Euler)
   - [Anaconda](#Anaconda) (Installing Python using Anaconda)
   - [SQL](#SQL)
@@ -137,6 +138,14 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
 * [An Introduction to Machine Learning with R](https://lgatto.github.io/IntroMachineLearningWithR/index.html) Laurent Gatto <br>
 * [R-Statistics](https://r-statistics.co) by Selva Prabhakaran <br>
 * Blog: [Caret Package – A Practical Guide to Machine Learning in R](https://www.machinelearningplus.com/machine-learning/caret-package/) <br>
+
+#### <a name="MLR"></a>Machine Learning in R: 
+* Blog: [Caret Package](https://topepo.github.io/caret/index.html) by Max Kuhn
+* NoteBook: [Principles of Machine Learning R](https://github.com/MicrosoftLearning/Principles-of-Machine-Learning-R)
+* Blog: [Caret Package – A Practical Guide to Machine Learning in R](https://www.machinelearningplus.com/machine-learning/caret-package/)
+* Blog: [An Introduction to Machine Learning with R](https://lgatto.github.io/IntroMachineLearningWithR/index.html) Laurent Gatto 
+* Blog: [Practical Machine Learning Course Notes](https://sux13.github.io/DataScienceSpCourseNotes/8_PREDMACHLEARN/Practical_Machine_Learning_Course_Notes.html) by Xing Su
+* Cheat Sheet: [Caret Package](https://ugoproto.github.io/ugo_r_doc/caret.pdf) by Max Kuhn
 
 ### <a name="Project-Euler"></a>Project Euler:
 :sparkles: If you want to solve interesting problems to practice Python or R, then we recommend to solve the problems of [Project Euler](https://projecteuler.net/)! 
