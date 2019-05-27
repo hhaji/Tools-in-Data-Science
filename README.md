@@ -21,7 +21,7 @@ important tools in data science and also some tools to write or share your proje
 - [Programming Languages](#Programming-Languages)
   - [Python](#Python)
   - [R](#R)
-        * [Machine Learning in R](#MLR)
+  - [Machine Learning in R](#MLR)
   - [Project Euler](#Project-Euler)
   - [Anaconda](#Anaconda) (Installing Python using Anaconda)
   - [SQL](#SQL)
@@ -139,7 +139,7 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
 * [R-Statistics](https://r-statistics.co) by Selva Prabhakaran <br>
 * Blog: [Caret Package – A Practical Guide to Machine Learning in R](https://www.machinelearningplus.com/machine-learning/caret-package/) <br>
 
-#### <a name="MLR"></a>Machine Learning in R: 
+### <a name="MLR"></a>Machine Learning in R: 
 * Blog: [Caret Package](https://topepo.github.io/caret/index.html) by Max Kuhn
 * NoteBook: [Principles of Machine Learning R](https://github.com/MicrosoftLearning/Principles-of-Machine-Learning-R)
 * Blog: [Caret Package – A Practical Guide to Machine Learning in R](https://www.machinelearningplus.com/machine-learning/caret-package/)
