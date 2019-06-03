@@ -137,6 +137,7 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
 * [R Data Science Tutorials](https://github.com/ujjwalkarn/DataScienceR) by Ujjwal Karn
 * Data Science Wars: [Choosing R or Python for Data Analysis? An Infographic](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis)
 * [R-Statistics](https://r-statistics.co) by Selva Prabhakaran <br>
+* [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)
 * [Getting used to R, RStudio, and R Markdown](https://bookdown.org/chesterismay/rbasics/) by Chester Ismay
 
 ### <a name="MLR"></a>Machine Learning in R: 
