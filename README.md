@@ -140,7 +140,8 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
 * [R-Statistics](https://r-statistics.co) by Selva Prabhakaran <br>
 * [R Coding Style Guide](https://www.r-bloggers.com/%F0%9F%96%8A-r-coding-style-guide/) by Iegor Rudnytskyi <br> 
 * [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)
-* [Getting used to R, RStudio, and R Markdown](https://bookdown.org/chesterismay/rbasics/) by Chester Ismay
+* [Formulas in R Tutorial](https://www.datacamp.com/community/tutorials/r-formula-tutorial) by Karlijn Willems <br>
+* [Getting used to R, RStudio, and R Markdown](https://bookdown.org/chesterismay/rbasics/) by Chester Ismay <br>
 
 ### <a name="MLR"></a>Machine Learning in R: 
 * Blog: [Caret Package](https://topepo.github.io/caret/index.html) by Max Kuhn
