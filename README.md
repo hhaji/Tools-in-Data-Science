@@ -21,7 +21,7 @@ important tools in data science and also some tools to write or share your proje
 - [Programming Languages](#Programming-Languages)
   - [Python](#Python)
   - [R](#R)
-        - [Useful R Packages](#URP)
+   - [Useful R Packages](#URP)
   - [Machine Learning in R](#MLR)
   - [Project Euler](#Project-Euler)
   - [Anaconda](#Anaconda) (Installing Python using Anaconda)
