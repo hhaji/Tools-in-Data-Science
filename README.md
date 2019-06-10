@@ -153,12 +153,12 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
 * :sparkles: Book: [Machine Learning Mastery With R](https://machinelearningmastery.com/machine-learning-with-r/) by Jason Brownlee
 * Blog: [Caret Package](https://topepo.github.io/caret/index.html) by Max Kuhn
 * Blog: [An Introduction to Machine Learning with R](https://lgatto.github.io/IntroMachineLearningWithR/index.html) Laurent Gatto 
-* Blog: [Practical Machine Learning Course Notes](https://sux13.github.io/DataScienceSpCourseNotes/8_PREDMACHLEARN/Practical_Machine_Learning_Course_Notes.html) by Xing Su 
 
 ### <a name="UMLSR"></a>Useful Machine Learning Sites in R: 
 * Cheat Sheet: [Caret Package](https://ugoproto.github.io/ugo_r_doc/caret.pdf) by Max Kuhn
 * Blog: [Caret Package – A Practical Guide to Machine Learning in R](https://www.machinelearningplus.com/machine-learning/caret-package/)
-* NoteBook: [Principles of Machine Learning R](https://github.com/MicrosoftLearning/Principles-of-Machine-Learning-R)
+* NoteBook: [Principles of Machine Learning R](https://github.com/MicrosoftLearning/Principles-of-Machine-Learning-R) 
+* Blog: [Practical Machine Learning Course Notes](https://sux13.github.io/DataScienceSpCourseNotes/8_PREDMACHLEARN/Practical_Machine_Learning_Course_Notes.html) by Xing Su 
 
 ### <a name="Project-Euler"></a>Project Euler:
 :sparkles: If you want to solve interesting problems to practice Python or R, then we recommend to solve the problems of [Project Euler](https://projecteuler.net/)! 
