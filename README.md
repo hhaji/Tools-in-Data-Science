@@ -21,7 +21,7 @@ important tools in data science and also some tools to write or share your proje
 - [Programming Languages](#Programming-Languages)
   - [Python](#Python)
   - [R](#R)
-   - [Useful R Packages](#URP)
+  - [Useful R Sites](#URS)
   - [Machine Learning in R](#MLR)
   - [Project Euler](#Project-Euler)
   - [Anaconda](#Anaconda) (Installing Python using Anaconda)
@@ -131,7 +131,6 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
 * [Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython) by Ujjwal Karn
 
 ### <a name="R"></a>R:
-* :sparkles: Command Line: [The Workspace](https://www.statmethods.net/interface/workspace.html) <br>
 * :sparkles: Online Book: [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/) by Nathaniel D. Phillips <br>
 * :sparkles: Online Book: [Efficient R programming](https://csgillespie.github.io/efficientR/) by Colin Gillespie and Robin Lovelace <br>
 * :sparkles: Online Book: [R for Data Science](https://r4ds.had.co.nz/index.html) <br>
@@ -140,12 +139,13 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
 * Data Science Wars: [Choosing R or Python for Data Analysis? An Infographic](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis)
 * [R-Statistics](https://r-statistics.co) by Selva Prabhakaran <br>
 * [R Coding Style Guide](https://www.r-bloggers.com/%F0%9F%96%8A-r-coding-style-guide/) by Iegor Rudnytskyi <br> 
-* [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)
-* [Formulas in R Tutorial](https://www.datacamp.com/community/tutorials/r-formula-tutorial) by Karlijn Willems <br>
-* [Getting used to R, RStudio, and R Markdown](https://bookdown.org/chesterismay/rbasics/) by Chester Ismay <br>
-#### <a name="URP"></a>Useful R Packages:
+### <a name="URS"></a>Useful R Sites:
+* :sparkles: Command Line: [The Workspace](https://www.statmethods.net/interface/workspace.html) <br>
 * Blog: [Awesome R](https://awesome-r.com) <br>
 * Blog: [Quick List of Useful R Packages](https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages) by Garrett Grolemund <br>
+* [Getting used to R, RStudio, and R Markdown](https://bookdown.org/chesterismay/rbasics/) by Chester Ismay <br>
+* [Formulas in R Tutorial](https://www.datacamp.com/community/tutorials/r-formula-tutorial) by Karlijn Willems <br>
+* [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)
 
 ### <a name="MLR"></a>Machine Learning in R: 
 * Book: [Machine Learning Mastery With R](https://machinelearningmastery.com/machine-learning-with-r/) by Jason Brownlee
