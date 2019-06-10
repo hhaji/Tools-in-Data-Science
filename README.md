@@ -23,6 +23,7 @@ important tools in data science and also some tools to write or share your proje
   - [R](#R)
   - [Useful R Sites](#URS)
   - [Machine Learning in R](#MLR)
+  - [Useful Machine Learning Sites in R](#UMLSR) 
   - [Project Euler](#Project-Euler)
   - [Anaconda](#Anaconda) (Installing Python using Anaconda)
   - [SQL](#SQL)
@@ -130,31 +131,34 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
 * [Errors and Debugging](https://jakevdp.github.io/PythonDataScienceHandbook/01.06-errors-and-debugging.html) by Jake VanderPlas
 * [Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython) by Ujjwal Karn
 
-### <a name="R"></a>R:
-* :sparkles: Online Book: [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/) by Nathaniel D. Phillips <br>
-* :sparkles: Online Book: [Efficient R programming](https://csgillespie.github.io/efficientR/) by Colin Gillespie and Robin Lovelace <br>
+### <a name="R"></a>R: 
 * :sparkles: Online Book: [R for Data Science](https://r4ds.had.co.nz/index.html) <br>
+* :sparkles: Online Book: [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/) by Nathaniel D. Phillips <br>
+* Online Book: [Efficient R programming](https://csgillespie.github.io/efficientR/) by Colin Gillespie and Robin Lovelace <br>
 * [R Tutorial for Beginners: Learning R Programming](https://www.guru99.com/r-tutorial.html) <br>
-* [R Data Science Tutorials](https://github.com/ujjwalkarn/DataScienceR) by Ujjwal Karn
-* Data Science Wars: [Choosing R or Python for Data Analysis? An Infographic](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis)
 * [R-Statistics](https://r-statistics.co) by Selva Prabhakaran <br>
-* [R Coding Style Guide](https://www.r-bloggers.com/%F0%9F%96%8A-r-coding-style-guide/) by Iegor Rudnytskyi <br> 
+
 ### <a name="URS"></a>Useful R Sites:
 * :sparkles: Command Line: [The Workspace](https://www.statmethods.net/interface/workspace.html) <br>
 * Blog: [Awesome R](https://awesome-r.com) <br>
 * Blog: [Quick List of Useful R Packages](https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages) by Garrett Grolemund <br>
 * [Getting used to R, RStudio, and R Markdown](https://bookdown.org/chesterismay/rbasics/) by Chester Ismay <br>
 * [Formulas in R Tutorial](https://www.datacamp.com/community/tutorials/r-formula-tutorial) by Karlijn Willems <br>
-* [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)
+* [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml) <br>
+* [R Data Science Tutorials](https://github.com/ujjwalkarn/DataScienceR) by Ujjwal Karn
+* Data Science Wars: [Choosing R or Python for Data Analysis? An Infographic](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis) <br>
+* [R Coding Style Guide](https://www.r-bloggers.com/%F0%9F%96%8A-r-coding-style-guide/) by Iegor Rudnytskyi <br> 
 
 ### <a name="MLR"></a>Machine Learning in R: 
-* Book: [Machine Learning Mastery With R](https://machinelearningmastery.com/machine-learning-with-r/) by Jason Brownlee
+* :sparkles: Book: [Machine Learning Mastery With R](https://machinelearningmastery.com/machine-learning-with-r/) by Jason Brownlee
 * Blog: [Caret Package](https://topepo.github.io/caret/index.html) by Max Kuhn
-* NoteBook: [Principles of Machine Learning R](https://github.com/MicrosoftLearning/Principles-of-Machine-Learning-R)
-* Blog: [Caret Package – A Practical Guide to Machine Learning in R](https://www.machinelearningplus.com/machine-learning/caret-package/)
 * Blog: [An Introduction to Machine Learning with R](https://lgatto.github.io/IntroMachineLearningWithR/index.html) Laurent Gatto 
-* Blog: [Practical Machine Learning Course Notes](https://sux13.github.io/DataScienceSpCourseNotes/8_PREDMACHLEARN/Practical_Machine_Learning_Course_Notes.html) by Xing Su
+* Blog: [Practical Machine Learning Course Notes](https://sux13.github.io/DataScienceSpCourseNotes/8_PREDMACHLEARN/Practical_Machine_Learning_Course_Notes.html) by Xing Su 
+
+### <a name="UMLSR"></a>Useful Machine Learning Sites in R: 
 * Cheat Sheet: [Caret Package](https://ugoproto.github.io/ugo_r_doc/caret.pdf) by Max Kuhn
+* Blog: [Caret Package – A Practical Guide to Machine Learning in R](https://www.machinelearningplus.com/machine-learning/caret-package/)
+* NoteBook: [Principles of Machine Learning R](https://github.com/MicrosoftLearning/Principles-of-Machine-Learning-R)
 
 ### <a name="Project-Euler"></a>Project Euler:
 :sparkles: If you want to solve interesting problems to practice Python or R, then we recommend to solve the problems of [Project Euler](https://projecteuler.net/)! 
