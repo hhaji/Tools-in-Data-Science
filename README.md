@@ -90,6 +90,7 @@ by Max Woolf <br>
 ### <a name="RMarkdown"></a>R Markdown:
 * [R Markdown](https://rmarkdown.rstudio.com)
 * [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) by Yihui Xie, J. J. Allaire, and Garrett Grolemund <br>
+* [R Markdown Cheat Sheet - RStudio](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
 
 ## <a name="Git"></a>Git
 [Git](https://git-scm.com) is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is [easy to learn](https://git-scm.com/doc) and has a [tiny footprint with lightning fast performance](https://git-scm.com/about/small-and-fast). 
