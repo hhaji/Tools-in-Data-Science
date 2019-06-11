@@ -76,6 +76,7 @@ The [Jupyter](https://jupyter.org) is an open-source web application that allows
 ### <a name="RNoteBook"></a>R NoteBook:
 * [Advantages of Using R Notebooks For Data Analysis Instead of Jupyter Notebooks](https://minimaxir.com/2017/06/r-notebooks/) 
 by Max Woolf <br>
+* [R Notebook](https://bookdown.org/yihui/rmarkdown/notebook.html) by Yihui Xie, J. J. Allaire, and Garrett Grolemund <br> 
 
 ## <a name="Markdown"></a>Markdown:
 [Markdown](https://www.markdownguide.org/getting-started) is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
