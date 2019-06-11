@@ -14,6 +14,7 @@ important tools in data science and also some tools to write or share your proje
   - [Jupyter Lab](#JLAB)
   - [R NoteBook](#RNoteBook)
 - [Markdown](#Markdown) 
+  - [R Markdown](#RMarkdown) 
 - [Git](#Git)
   - [Git Resources](#Git-Resources)
   - [Videos](#Videos)
@@ -84,6 +85,9 @@ by Max Woolf <br>
 * [Getting Started with R Markdown](https://ourcodingclub.github.io/2016/11/24/rmarkdown-1.html)
 * [Word to Markdown](https://word-to-markdown.herokuapp.com)
 * [Complete List of GitHub Markdown Emoji Markup](https://gist.github.com/rxaviers/7360908) by Rafael Xavier de Souza
+
+### <a name="RMarkdown"></a>R Markdown:
+* [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) by Yihui Xie, J. J. Allaire, and Garrett Grolemund <br>
 
 ## <a name="Git"></a>Git
 [Git](https://git-scm.com) is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is [easy to learn](https://git-scm.com/doc) and has a [tiny footprint with lightning fast performance](https://git-scm.com/about/small-and-fast). 
