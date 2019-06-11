@@ -151,7 +151,8 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
 * [R Coding Style Guide](https://www.r-bloggers.com/%F0%9F%96%8A-r-coding-style-guide/) by Iegor Rudnytskyi <br>
 
 ### <a name="URT"></a>Useful R Tricks:
-* [Simplify Your Code with %>%](https://uc-r.github.io/pipe) by UC Business Analytics R Programming Guide <br>
+* [Simplify Your Code with %>% (Pipes)](https://uc-r.github.io/pipe) by UC Business Analytics R Programming Guide <br>
+* [Pipes](https://r4ds.had.co.nz/pipes.html) by Garrett Grolemund and Hadley Wickham <br>
 
 ### <a name="MLR"></a>Machine Learning in R: 
 * :sparkles: Book: [Machine Learning Mastery With R](https://machinelearningmastery.com/machine-learning-with-r/) by Jason Brownlee
