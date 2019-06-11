@@ -12,7 +12,7 @@ important tools in data science and also some tools to write or share your proje
 - [Command Line](#Command-Line)
 - [Jupyter and IPython](#Jupyter-and-IPython)
   - [Jupyter Lab](#JLAB)
-  -[R NoteBook](#RNoteBook)
+  - [R NoteBook](#RNoteBook)
 - [Markdown](#Markdown) 
 - [Git](#Git)
   - [Git Resources](#Git-Resources)
