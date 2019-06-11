@@ -11,6 +11,8 @@ important tools in data science and also some tools to write or share your proje
 ### **Index:**
 - [Command Line](#Command-Line)
 - [Jupyter and IPython](#Jupyter-and-IPython)
+  - [Jupyter Lab](#JLAB)
+  -[R NoteBook](#RNoteBook)
 - [Markdown](#Markdown) 
 - [Git](#Git)
   - [Git Resources](#Git-Resources)
@@ -56,9 +58,7 @@ The [Jupyter](https://jupyter.org) is an open-source web application that allows
 * :sparkles: [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) by Benjamin Pryke
 * :sparkles: [Advanced Jupyter Notebooks: A Tutorial](https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/) by Benjamin Pryke
 * :sparkles: [28 Jupyter Notebook Tips, Tricks, and Shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/) by Josh Devlin 
-* :sparkles: [JupyterLab Extension](https://github.com/topics/jupyterlab-extension) 
 * [Awesome JupyterLab](https://github.com/mauhai/awesome-jupyterlab) by Hai Nguyen Mau
-* [Jupyter Lab extensions for Data Scientist](https://medium.com/@subpath/jupyter-lab-extensions-for-data-scientist-e0d97d529fc1) by Alexander Osipenko 
 * [Six Easy Ways to Run Your Jupyter Notebook in the Cloud](https://www.dataschool.io/cloud-services-for-jupyter-notebook/)   
 * [IPython and Shell Commands](https://jakevdp.github.io/PythonDataScienceHandbook/01.05-ipython-and-shell-commands.html)
 * [IPython: Beyond Normal Python](https://www.oreilly.com/library/view/python-data-science/9781491912126/ch01.html)
@@ -68,7 +68,14 @@ The [Jupyter](https://jupyter.org) is an open-source web application that allows
 * [Introducing IPython:](https://ipython.org/ipython-doc/3/interactive/tutorial.html) Differences between line-oriented and cell-oriented magic functions 
 * Paper: [Ten Simple Rules for Reproducible Research in Jupyter Notebooks](https://arxiv.org/pdf/1810.08055.pdf)
 * Talk: [Jupyter (Formerly IPython Notebook)](http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/6973/pdf/imm6973.pdf) by Finn Arup Nielsen <br>
+### <a name="JLAB"></a>Jupyter Lab:
+* :sparkles: [JupyterLab Extension](https://github.com/topics/jupyterlab-extension) 
+* [Jupyter Lab extensions for Data Scientist](https://medium.com/@subpath/jupyter-lab-extensions-for-data-scientist-e0d97d529fc1) by Alexander Osipenko 
 * Install: [The R kernel in Jupyter Lab](https://richpauloo.github.io/2018-05-16-Installing-the-R-kernel-in-Jupyter-Lab/) by Rich Pauloo <br> 
+ 
+### <a name="RNoteBook"></a>R NoteBook:
+* [Advantages of Using R Notebooks For Data Analysis Instead of Jupyter Notebooks](https://minimaxir.com/2017/06/r-notebooks/) 
+by Max Woolf <br>
 
 ## <a name="Markdown"></a>Markdown:
 [Markdown](https://www.markdownguide.org/getting-started) is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
