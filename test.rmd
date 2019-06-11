@@ -1,6 +1,8 @@
 ---
 title: "R Notebook"
-output: rmarkdown::github_document
+output: 
+  html_document:
+    keep_md: true
 ---
 
 # Test
