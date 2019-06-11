@@ -88,6 +88,7 @@ by Max Woolf <br>
 * [Complete List of GitHub Markdown Emoji Markup](https://gist.github.com/rxaviers/7360908) by Rafael Xavier de Souza
 
 ### <a name="RMarkdown"></a>R Markdown:
+* [R Markdown](https://rmarkdown.rstudio.com)
 * [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) by Yihui Xie, J. J. Allaire, and Garrett Grolemund <br>
 
 ## <a name="Git"></a>Git
