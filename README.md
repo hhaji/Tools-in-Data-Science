@@ -22,6 +22,7 @@ important tools in data science and also some tools to write or share your proje
   - [Python](#Python)
   - [R](#R)
   - [Useful R Sites](#URS)
+  - [Useful R Tricks](#URT)
   - [Machine Learning in R](#MLR)
   - [Useful Machine Learning Sites in R](#UMLSR) 
   - [Project Euler](#Project-Euler)
@@ -148,6 +149,8 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
 * [R Data Science Tutorials](https://github.com/ujjwalkarn/DataScienceR) by Ujjwal Karn
 * Data Science Wars: [Choosing R or Python for Data Analysis? An Infographic](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis) <br>
 * [R Coding Style Guide](https://www.r-bloggers.com/%F0%9F%96%8A-r-coding-style-guide/) by Iegor Rudnytskyi <br>
+
+### <a name="URT"></a>Useful R Tricks:
 * [Simplify Your Code with %>%](https://uc-r.github.io/pipe) by UC Business Analytics R Programming Guide <br>
 
 ### <a name="MLR"></a>Machine Learning in R: 
