@@ -162,6 +162,8 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
 * [R Data Science Tutorials](https://github.com/ujjwalkarn/DataScienceR) by Ujjwal Karn
 * Data Science Wars: [Choosing R or Python for Data Analysis? An Infographic](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis) <br>
 * [R Coding Style Guide](https://www.r-bloggers.com/%F0%9F%96%8A-r-coding-style-guide/) by Iegor Rudnytskyi <br>
+* [Base R (Cheat Sheet)](https://www.ethz.ch/content/dam/ethz/special-interest/math/statistics/sfs/Education/Advanced%20Studies%20in%20Applied%20Statistics/course-material-1719/R/base-r-cheat-sheet.pdf)  <br>
+* [R Programming Cheat Sheet](http://www.datasciencefree.com/advancedR.pdf) Arianne Colton and Sean Chen <br>
 
 ### <a name="URT"></a>Useful R Tricks:
 * [Simplify Your Code with %>% (Pipes)](https://uc-r.github.io/pipe) by UC Business Analytics R Programming Guide <br>
