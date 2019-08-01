@@ -46,18 +46,18 @@ important tools in data science and also some tools to write or share your proje
 ---
 
 ## <a name="Command-Line"></a>Command Line:  
+    
+   * [Introduction to the Command Line](https://github.com/justmarkham/DAT8/blob/master/code/02_command_line.md) by Kevin Markham   
+   * Cheat Sheet: [Windows](http://www1.cs.columbia.edu/~sedwards/classes/2017/1102-spring/Command%20Prompt%20Cheatsheet.pdf)   
+   * Cheat Sheet: [Linux & Mac](http://blog.markpearl.co.za/assets/documents/bash-cheatsheet.pdf)    
 
-    * [Introduction to the Command Line](https://github.com/justmarkham/DAT8/blob/master/code/02_command_line.md) by Kevin Markham  
-    * Cheat Sheet: [Windows](http://www1.cs.columbia.edu/~sedwards/classes/2017/1102-spring/Command%20Prompt%20Cheatsheet.pdf)   
-    * Cheat Sheet: [Linux & Mac](http://blog.markpearl.co.za/assets/documents/bash-cheatsheet.pdf)    
-
-    ```
-    Additional Reading:
-    ```  
+   ```
+   Additional Reading:
+   ```  
     
     
-    * Book: [Data Science at the Command Line](http://shop.oreilly.com/product/0636920032823.do)
-    * Blog: [12 Essential Command Line Tools for Data Scientists](https://www.dataquest.io/blog/top-12-essential-command-line-tools-for-data-scientists/) by Matthew Mayo 
+   * Book: [Data Science at the Command Line](http://shop.oreilly.com/product/0636920032823.do)
+   * Blog: [12 Essential Command Line Tools for Data Scientists](https://www.dataquest.io/blog/top-12-essential-command-line-tools-for-data-scientists/) by Matthew Mayo 
 
 ## <a name="Anaconda"></a>Anaconda:
 [Anaconda Distribution](https://www.anaconda.com/what-is-anaconda/): With over 6 million users, the open source Anaconda Distribution is the fastest and easiest way to do Python and R data science and machine learning on Linux, Windows, and Mac OS X. It's the industry standard for developing, testing, and training on a single machine.
@@ -75,9 +75,9 @@ The [Jupyter](https://jupyter.org) is an open-source web application that allows
    * [Advanced Jupyter Notebooks: A Tutorial](https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/) by Benjamin Pryke
    * [28 Jupyter Notebook Tips, Tricks, and Shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/) by Josh Devlin 
 
-    ```
-    Additional Reading:
-    ```
+   ```
+   Additional Reading:
+   ```
     
    * [Six Easy Ways to Run Your Jupyter Notebook in the Cloud](https://www.dataschool.io/cloud-services-for-jupyter-notebook/)   
    * [IPython and Shell Commands](https://jakevdp.github.io/PythonDataScienceHandbook/01.05-ipython-and-shell-commands.html)
@@ -93,9 +93,9 @@ The [Jupyter](https://jupyter.org) is an open-source web application that allows
    * [Awesome JupyterLab](https://github.com/mauhai/awesome-jupyterlab) by Hai Nguyen Mau
    * [JupyterLab Extension](https://github.com/topics/jupyterlab-extension) 
    
-    ```
-    Additional Reading:
-    ```
+   ```
+   Additional Reading:
+   ```
     
    * [Jupyter Lab extensions for Data Scientist](https://medium.com/@subpath/jupyter-lab-extensions-for-data-scientist-e0d97d529fc1) by Alexander Osipenko 
    * Install: [The R kernel in Jupyter Lab](https://richpauloo.github.io/2018-05-16-Installing-the-R-kernel-in-Jupyter-Lab/) by Rich Pauloo <br> 
@@ -111,9 +111,9 @@ by Max Woolf <br>
    * [Learn Markdown Online](https://commonmark.org/help/tutorial/) 
    * Cheat Sheet: [Markdown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) 
 
-    ```
-    Additional Reading:
-    ```
+   ```
+   Additional Reading:
+   ```
 
    * [Getting Started with R Markdown](https://ourcodingclub.github.io/2016/11/24/rmarkdown-1.html)
    * [Word to Markdown](https://word-to-markdown.herokuapp.com)
@@ -131,9 +131,9 @@ by Max Woolf <br>
    * [Resources to Learn Git](https://try.github.io)
    * [Pro Git](http://git-scm.com/book/en/v2) is an excellent book to learn Git.
    
-    ```
-    Additional Reading:
-    ```
+   ```
+   Additional Reading:
+   ```
    
    * [Git Immersion](http://gitimmersion.com/) looks promising to practice Git.
    * [Git Quick Reference for Beginners](https://www.dataschool.io/git-quick-reference-for-beginners/)
@@ -168,9 +168,9 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
 
    * Book: [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-python-2e/), Second  Edition, by Allen B. Downey (free PDF book) 
 
-    ```
-    Additional Reading:
-    ```
+   ```
+   Additional Reading:
+   ```
 
    * [Python3 Tutorial:](https://www.python-course.eu/python3_course.php) This online Python course was created and is maintained by Bernd Klein, an experienced Python trainer, giving training classes all over the world. It is an interesting introduction into Python for beginners and intermediate learners with lots of examples and exercises! 
    * [Regular Expressions for Data Scientists](https://www.dataquest.io/blog/regular-expressions-data-scientists/) by Alex Yang 
@@ -188,42 +188,47 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
    * [Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython) by Ujjwal Karn
 
 ### <a name="R"></a>R: 
-* Online Book: [R for Data Science](https://r4ds.had.co.nz/index.html) <br>
-* Online Book: [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/) by Nathaniel D. Phillips <br>
-* Online Book: [Efficient R programming](https://csgillespie.github.io/efficientR/) by Colin Gillespie and Robin Lovelace <br>
-* [R Tutorial for Beginners: Learning R Programming](https://www.guru99.com/r-tutorial.html) <br>
-* [R-Statistics](https://r-statistics.co) by Selva Prabhakaran <br>
+   * Online Book: [R for Data Science](https://r4ds.had.co.nz/index.html) <br>
+   
+   ```
+   Required Reading:
+   ```
+   
+   * Online Book: [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/) by Nathaniel D. Phillips <br>
+   * Online Book: [Efficient R programming](https://csgillespie.github.io/efficientR/) by Colin Gillespie and Robin Lovelace <br>
+   * [R Tutorial for Beginners: Learning R Programming](https://www.guru99.com/r-tutorial.html) <br>
+   * [R-Statistics](https://r-statistics.co) by Selva Prabhakaran <br>
 
 ### <a name="URS"></a>Useful R Sites:
-* :sparkles: Command Line: [The Workspace](https://www.statmethods.net/interface/workspace.html) <br>
-* Blog: [Awesome R](https://awesome-r.com) <br>
-* Blog: [Quick List of Useful R Packages](https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages) by Garrett Grolemund <br>
-* [Getting used to R, RStudio, and R Markdown](https://bookdown.org/chesterismay/rbasics/) by Chester Ismay <br>
-* [Formulas in R Tutorial](https://www.datacamp.com/community/tutorials/r-formula-tutorial) by Karlijn Willems <br>
-* [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml) <br>
-* [R Data Science Tutorials](https://github.com/ujjwalkarn/DataScienceR) by Ujjwal Karn
-* Data Science Wars: [Choosing R or Python for Data Analysis? An Infographic](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis) <br>
-* [R Coding Style Guide](https://www.r-bloggers.com/%F0%9F%96%8A-r-coding-style-guide/) by Iegor Rudnytskyi <br>
-* [Base R (Cheat Sheet)](https://www.ethz.ch/content/dam/ethz/special-interest/math/statistics/sfs/Education/Advanced%20Studies%20in%20Applied%20Statistics/course-material-1719/R/base-r-cheat-sheet.pdf)  <br>
-* [R Programming Cheat Sheet](http://www.datasciencefree.com/advancedR.pdf) Arianne Colton and Sean Chen <br>
+   * Command Line: [The Workspace](https://www.statmethods.net/interface/workspace.html) <br>
+   * Blog: [Awesome R](https://awesome-r.com) <br>
+   * Blog: [Quick List of Useful R Packages](https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages) by Garrett Grolemund <br>
+   * [Getting used to R, RStudio, and R Markdown](https://bookdown.org/chesterismay/rbasics/) by Chester Ismay <br>
+   * [Formulas in R Tutorial](https://www.datacamp.com/community/tutorials/r-formula-tutorial) by Karlijn Willems <br>
+   * [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml) <br>
+   * [R Data Science Tutorials](https://github.com/ujjwalkarn/DataScienceR) by Ujjwal Karn
+   * Data Science Wars: [Choosing R or Python for Data Analysis? An Infographic](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis) <br>
+   * [R Coding Style Guide](https://www.r-bloggers.com/%F0%9F%96%8A-r-coding-style-guide/) by Iegor Rudnytskyi <br>
+   * [Base R (Cheat Sheet)](https://www.ethz.ch/content/dam/ethz/special-interest/math/statistics/sfs/Education/Advanced%20Studies%20in%20Applied%20Statistics/course-material-1719/R/base-r-cheat-sheet.pdf)  <br>
+   * [R Programming Cheat Sheet](http://www.datasciencefree.com/advancedR.pdf) Arianne Colton and Sean Chen <br>
 
 ### <a name="URT"></a>Useful R Tricks:
-* [Simplify Your Code with %>% (Pipes)](https://uc-r.github.io/pipe) by UC Business Analytics R Programming Guide <br>
-* [Pipes](https://r4ds.had.co.nz/pipes.html) by Garrett Grolemund and Hadley Wickham <br>
+   * [Simplify Your Code with %>% (Pipes)](https://uc-r.github.io/pipe) by UC Business Analytics R Programming Guide <br>
+   * [Pipes](https://r4ds.had.co.nz/pipes.html) by Garrett Grolemund and Hadley Wickham <br>
 
 ### <a name="MLR"></a>Machine Learning in R: 
-* :sparkles: Book: [Machine Learning Mastery With R](https://machinelearningmastery.com/machine-learning-with-r/) by Jason Brownlee
-* Blog: [Caret Package](https://topepo.github.io/caret/index.html) by Max Kuhn
-* Blog: [An Introduction to Machine Learning with R](https://lgatto.github.io/IntroMachineLearningWithR/index.html) Laurent Gatto 
+   * Book: [Machine Learning Mastery With R](https://machinelearningmastery.com/machine-learning-with-r/) by Jason Brownlee
+   * Blog: [Caret Package](https://topepo.github.io/caret/index.html) by Max Kuhn
+   * Blog: [An Introduction to Machine Learning with R](https://lgatto.github.io/IntroMachineLearningWithR/index.html) Laurent Gatto 
 
 ### <a name="UMLSR"></a>Useful Machine Learning Sites in R: 
-* Cheat Sheet: [Caret Package](https://ugoproto.github.io/ugo_r_doc/caret.pdf) by Max Kuhn
-* Blog: [Caret Package – A Practical Guide to Machine Learning in R](https://www.machinelearningplus.com/machine-learning/caret-package/)
-* NoteBook: [Principles of Machine Learning R](https://github.com/MicrosoftLearning/Principles-of-Machine-Learning-R) 
-* Blog: [Practical Machine Learning Course Notes](https://sux13.github.io/DataScienceSpCourseNotes/8_PREDMACHLEARN/Practical_Machine_Learning_Course_Notes.html) by Xing Su 
+   * Cheat Sheet: [Caret Package](https://ugoproto.github.io/ugo_r_doc/caret.pdf) by Max Kuhn
+   * Blog: [Caret Package – A Practical Guide to Machine Learning in R](https://www.machinelearningplus.com/machine-learning/caret-package/)
+   * NoteBook: [Principles of Machine Learning R](https://github.com/MicrosoftLearning/Principles-of-Machine-Learning-R) 
+   * Blog: [Practical Machine Learning Course Notes](https://sux13.github.io/DataScienceSpCourseNotes/8_PREDMACHLEARN/Practical_Machine_Learning_Course_Notes.html) by Xing Su 
 
 ### <a name="Project-Euler"></a>Project Euler:
-:sparkles: If you want to solve interesting problems to practice Python or R, then we recommend to solve the problems of [Project Euler](https://projecteuler.net/)! 
+If you want to solve interesting problems to practice Python or R, then we recommend to solve the problems of [Project Euler](https://projecteuler.net/)! 
 
 
 ### <a name="SQL"></a>SQL:
@@ -236,56 +241,76 @@ Python continues to take leading positions in solving data science tasks and cha
 ### <a name="Numpy"></a>Numpy:
 [NumPy](http://www.numpy.org) is the fundamental package for scientific computing with Python. Besides its obvious scientific uses, NumPy can also be used as an efficient multi-dimensional container of generic data. Arbitrary data-types can be defined. This allows NumPy to seamlessly and speedily integrate with a wide variety of databases.<br>
 
-* :sparkles: [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
-* [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
-* [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/) by Justin Johnson <br>
-* [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) <br>
-* Tutorial: [An Essential Guide to Numpy for Machine Learning in Python](http://onlinetutorials.today/numpy/an-essential-guide-to-numpy-for-machine-learning-in-python/) by Siddharth Dikshit <br>
-* NoteBook: [How Fast are NumPy Operations Compared to Regular Python Math?](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/How%20fast%20are%20NumPy%20ops.ipynb) by Tirthajyoti Sarkar <br>
-* [Data Science with Python: Turn your Conditional Loops to Numpy Vectors](https://towardsdatascience.com/data-science-with-python-turn-your-conditional-loops-to-numpy-vectors-9484ff9c622e) by Tirthajyoti Sarkar <br>
+   * [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
+   
+   ```
+   Required Reading:
+   ```
+   
+   * [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
+   * [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/) by Justin Johnson <br>
+   * [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) <br>
+   * Tutorial: [An Essential Guide to Numpy for Machine Learning in Python](http://onlinetutorials.today/numpy/an-essential-guide-to-numpy-for-machine-learning-in-python/) by Siddharth Dikshit <br>
+   * NoteBook: [How Fast are NumPy Operations Compared to Regular Python Math?](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/How%20fast%20are%20NumPy%20ops.ipynb) by Tirthajyoti Sarkar <br>
+   * [Data Science with Python: Turn your Conditional Loops to Numpy Vectors](https://towardsdatascience.com/data-science-with-python-turn-your-conditional-loops-to-numpy-vectors-9484ff9c622e) by Tirthajyoti Sarkar <br>
 
-- **Exercises:** Practice Numpy in [LabEx](https://labex.io/courses/100-numpy-exercises)
+   - **Exercises:** Practice Numpy in [LabEx](https://labex.io/courses/100-numpy-exercises)
 
 ### <a name="Pandas"></a>Pandas:
 [Pandas](https://pandas.pydata.org) is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.<br>
 
-* :sparkles: [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin  <br>
-* :sparkles: [Using Excel with Pandas](https://www.dataquest.io/blog/excel-and-pandas/) by Harish Garg <br>
-* :sparkles: [Using pandas with Large Data Sets](https://www.dataquest.io/blog/pandas-big-data/) by Josh Devlin <br>
-* [Pandas (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/pandas) by Aleksey Bilogur <br>
-* [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) <br>
-* [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html) <br>
+   * [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin  <br>
+   * [Using Excel with Pandas](https://www.dataquest.io/blog/excel-and-pandas/) by Harish Garg <br>
+   * [Using pandas with Large Data Sets](https://www.dataquest.io/blog/pandas-big-data/) by Josh Devlin <br>
+   
+   ```
+   Required Reading:
+   ```
+   
+   * [Pandas (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/pandas) by Aleksey Bilogur <br>
+   * [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) <br>
+   * [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html) <br>
 
-- Tutorial: [Visualizing Machine Learning One Concept at a Time](http://jalammar.github.io) by Jay Alammar
-- Tutorial: [Best practices with pandas (Video Series)](https://www.dataschool.io/best-practices-with-pandas/)
-- Tutorial: [9 New Pandas Updates That Will Save You Time](https://www.dataschool.io/python-pandas-updates/)
-- **Exercises:** Practice Pandas in [LabEx](https://labex.io/courses/100-pandas-exercises)
+   - Tutorial: [Visualizing Machine Learning One Concept at a Time](http://jalammar.github.io) by Jay Alammar
+   - Tutorial: [Best practices with pandas (Video Series)](https://www.dataschool.io/best-practices-with-pandas/)
+   - Tutorial: [9 New Pandas Updates That Will Save You Time](https://www.dataschool.io/python-pandas-updates/)
+   - **Exercises:** Practice Pandas in [LabEx](https://labex.io/courses/100-pandas-exercises)
 
 ### <a name="Matplotlib"></a>Matplotlib:
 [Matplotlib](https://matplotlib.org) is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. Matplotlib can be used in Python scripts, the Python and IPython shells, the Jupyter notebook, web application servers, and four graphical user interface toolkits.
 
-* :sparkles: [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
-* [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
-* [How to Generate FiveThirtyEight Graphs in Python](https://www.dataquest.io/blog/making-538-plots/) by Alex Olteanu <br>
-* [Top 50 Matplotlib Visualizations – The Master Plots (with Full Python Code)](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/) <br>
+   * [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
+      
+   ```
+   Required Reading:
+   ```
+   
+   * [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
+   * [How to Generate FiveThirtyEight Graphs in Python](https://www.dataquest.io/blog/making-538-plots/) by Alex Olteanu <br>
+   * [Top 50 Matplotlib Visualizations – The Master Plots (with Full Python Code)](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/) <br>
 
-- **Exercises:** Practice Matplotlib in [LabEx](https://labex.io/courses/draw-2d-and-3d-graphics-by-matplotlib)
+   - **Exercises:** Practice Matplotlib in [LabEx](https://labex.io/courses/draw-2d-and-3d-graphics-by-matplotlib)
 
 ### <a name="Scikit-Learn"></a>Scikit-Learn:
 [Scikit-Learn](https://scikit-learn.org) is a simple and efficient tools for data mining and data analysis. It was built on NumPy, SciPy, and Matplotlib. 
 
-* :sparkles: [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
+   * [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
 
 ### <a name="SciPy"></a>SciPy:
 [SciPy](https://github.com/scipy/scipy) (pronounced "Sigh Pie") is open-source software for mathematics, science, and engineering. It includes modules for statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more.
 
-* :sparkles: [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
-* [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
+   * [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
+      
+   ```
+   Required Reading:
+   ```
+   
+   * [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
 
 ### <a name="PPP"></a>Probabilistic Programming in Python:  
 [PyMC3](https://docs.pymc.io) allows you to write down models using an intuitive syntax to describe a data 
 generating process.
 
 ### <a name="A-Fascinating-Guide-For-Machine-Learning"></a>A Fascinating Guide For Machine Learning:
-* :sparkles: [Technical Notes On Using Data Science & Artificial Intelligence: To Fight For Something That Matters](https://chrisalbon.com) by Chris Albon
+   * [Technical Notes On Using Data Science & Artificial Intelligence: To Fight For Something That Matters](https://chrisalbon.com) by Chris Albon
 
