@@ -10,6 +10,7 @@ important tools in data science and also some tools to write or share your proje
 
 ### **Index:**
 - [Command Line](#Command-Line)
+- [Anaconda](#Anaconda)
 - [Jupyter and IPython](#Jupyter-and-IPython)
   - [Jupyter Lab](#JLAB)
   - [R NoteBook](#RNoteBook)
@@ -29,7 +30,6 @@ important tools in data science and also some tools to write or share your proje
   - [Machine Learning in R](#MLR)
   - [Useful Machine Learning Sites in R](#UMLSR) 
   - [Project Euler](#Project-Euler)
-  - [Anaconda](#Anaconda) (Installing Python using Anaconda)
   - [SQL](#SQL)
 - [Python Libraries for Data Science](#Python-Libraries-for-Data-Science) 
   - [Numpy](#Numpy)
@@ -51,6 +51,15 @@ important tools in data science and also some tools to write or share your proje
 * :sparkles: Cheat Sheet: [Linux & Mac](http://blog.markpearl.co.za/assets/documents/bash-cheatsheet.pdf) 
 * Book: [Data Science at the Command Line](http://shop.oreilly.com/product/0636920032823.do)
 * Blog: [12 Essential Command Line Tools for Data Scientists](https://www.dataquest.io/blog/top-12-essential-command-line-tools-for-data-scientists/) by Matthew Mayo 
+
+## <a name="Anaconda"></a>Anaconda:
+[Anaconda Distribution](https://www.anaconda.com/what-is-anaconda/): With over 6 million users, the open source Anaconda Distribution is the fastest and easiest way to do Python and R data science and machine learning on Linux, Windows, and Mac OS X. It's the industry standard for developing, testing, and training on a single machine.
+
+* [Getting Started with Conda](https://conda.io/docs/user-guide/getting-started.html)
+* [Instalation](https://docs.anaconda.com/anaconda/install/)
+* [Why You Need Python Environments and How to Manage Them with Conda](https://protostar.space/why-you-need-python-environments-and-how-to-manage-them-with-conda) by  Gergely Szerovay
+* [Conda Commands (Create Virtual Environments for Python with Conda)](http://deeplearning.lipingyang.org/2018/12/25/conda-commands-create-virtual-environments-for-python-with-conda/) by LipingY  
+* [Why Use Conda Over pip?](https://www.opensourceanswers.com/blog/best-practices-with-conda.html)
 
 ## <a name="Jupyter-and-IPython"></a>Jupyter and IPython:
 The [Jupyter](https://jupyter.org) is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more. Also, [IPython](https://ipython.org) provides a rich architecture for interactive computing with in multiple programming languages.
@@ -183,11 +192,6 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
 ### <a name="Project-Euler"></a>Project Euler:
 :sparkles: If you want to solve interesting problems to practice Python or R, then we recommend to solve the problems of [Project Euler](https://projecteuler.net/)! 
 
-### <a name="Anaconda"></a>Anaconda:
-[Anaconda Distribution](https://www.anaconda.com/what-is-anaconda/): With over 6 million users, the open source Anaconda Distribution is the fastest and easiest way to do Python and R data science and machine learning on Linux, Windows, and Mac OS X. It's the industry standard for developing, testing, and training on a single machine.
-
-* [Getting Started with Conda](https://conda.io/docs/user-guide/getting-started.html)
-* [Instalation](https://docs.anaconda.com/anaconda/install/)
 
 ### <a name="SQL"></a>SQL:
 SQL is a a domain-specific language for managing data in databases.
