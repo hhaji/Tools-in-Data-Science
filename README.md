@@ -191,7 +191,7 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
    * Online Book: [R for Data Science](https://r4ds.had.co.nz/index.html) <br>
    
    ```
-   Required Reading:
+   Additional Reading:
    ```
    
    * Online Book: [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/) by Nathaniel D. Phillips <br>
@@ -244,7 +244,7 @@ Python continues to take leading positions in solving data science tasks and cha
    * [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
    
    ```
-   Required Reading:
+   Additional Reading:
    ```
    
    * [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
@@ -264,7 +264,7 @@ Python continues to take leading positions in solving data science tasks and cha
    * [Using pandas with Large Data Sets](https://www.dataquest.io/blog/pandas-big-data/) by Josh Devlin <br>
    
    ```
-   Required Reading:
+   Additional Reading:
    ```
    
    * [Pandas (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/pandas) by Aleksey Bilogur <br>
@@ -282,7 +282,7 @@ Python continues to take leading positions in solving data science tasks and cha
    * [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
       
    ```
-   Required Reading:
+   Additional Reading:
    ```
    
    * [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
@@ -302,7 +302,7 @@ Python continues to take leading positions in solving data science tasks and cha
    * [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
       
    ```
-   Required Reading:
+   Additional Reading:
    ```
    
    * [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
@@ -313,4 +313,3 @@ generating process.
 
 ### <a name="A-Fascinating-Guide-For-Machine-Learning"></a>A Fascinating Guide For Machine Learning:
    * [Technical Notes On Using Data Science & Artificial Intelligence: To Fight For Something That Matters](https://chrisalbon.com) by Chris Albon
-
