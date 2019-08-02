@@ -64,9 +64,16 @@ important tools in data science and also some tools to write or share your proje
 
   * [Getting Started with Conda](https://conda.io/docs/user-guide/getting-started.html)
   * [Instalation](https://docs.anaconda.com/anaconda/install/)
-  * [Why You Need Python Environments and How to Manage Them with Conda](https://protostar.space/why-you-need-python-environments-and-how-to-manage-them-with-conda) by  Gergely Szerovay
-  * [Conda Commands (Create Virtual Environments for Python with Conda)](http://deeplearning.lipingyang.org/2018/12/25/conda-commands-create-virtual-environments-for-python-with-conda/) by LipingY  
   * [Why Use Conda Over pip?](https://www.opensourceanswers.com/blog/best-practices-with-conda.html)
+  * Blog: [Managing Environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#managing-environments) <br>
+  * Blog: [Kernels for Different Environments](https://ipython.readthedocs.io/en/stable/install/kernel_install.html#kernels-for-different-environments) <br>
+  
+   ```
+   Additional Reading:
+   ```
+   
+  * [Why You Need Python Environments and How to Manage them with Conda](https://protostar.space/why-you-need-python-environments-and-how-to-manage-them-with-conda) by  Gergely Szerovay
+  * [Conda Commands (Create Virtual Environments for Python with Conda)](http://deeplearning.lipingyang.org/2018/12/25/conda-commands-create-virtual-environments-for-python-with-conda/) by LipingY  
   * [Conda Cheat Sheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf) 
 
 ## <a name="Jupyter-and-IPython"></a>Jupyter and IPython:
