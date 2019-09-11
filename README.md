@@ -194,6 +194,12 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
    * [How to Use the Python Debugger](http://fastml.com/how-to-use-the-python-debugger/) by Zygmunt
    * [Errors and Debugging](https://jakevdp.github.io/PythonDataScienceHandbook/01.06-errors-and-debugging.html) by Jake VanderPlas
    * [Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython) by Ujjwal Karn
+   
+   ```
+   Useful Tricks in Python:
+   ```
+   
+   * [IF __NAME__ == “__MAIN__”](http://plantbasedprogrammer.com/if-__name__-__main__/) by Peter Lynch   
 
 ### <a name="R"></a>R: 
    * Online Book: [R for Data Science](https://r4ds.had.co.nz/index.html) <br>
