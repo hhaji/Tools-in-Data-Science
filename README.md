@@ -61,12 +61,12 @@ important tools in data science and also some tools to write or share your proje
 
 ## <a name="Anaconda"></a>Anaconda:
 [Anaconda Distribution](https://www.anaconda.com/what-is-anaconda/): With over 6 million users, the open source Anaconda Distribution is the fastest and easiest way to do Python and R data science and machine learning on Linux, Windows, and Mac OS X. It's the industry standard for developing, testing, and training on a single machine.
-
-  * [Getting Started with Conda](https://conda.io/docs/user-guide/getting-started.html)
+  
   * [Instalation](https://docs.anaconda.com/anaconda/install/)
-  * [Why You Need Python Environments and How to Manage them with Conda](https://protostar.space/why-you-need-python-environments-and-how-to-manage-them-with-conda) by  Gergely Szerovay
   * Blog: [Managing Environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#managing-environments) <br>
   * Blog: [Kernels for Different Environments](https://ipython.readthedocs.io/en/stable/install/kernel_install.html#kernels-for-different-environments) <br>
+  * [Getting Started with Conda](https://conda.io/docs/user-guide/getting-started.html)
+  * [Why You Need Python Environments and How to Manage them with Conda](https://protostar.space/why-you-need-python-environments-and-how-to-manage-them-with-conda) by  Gergely Szerovay
   
    ```
    Additional Reading:
