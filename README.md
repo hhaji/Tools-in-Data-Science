@@ -134,7 +134,8 @@ by Max Woolf <br>
    * [R Markdown Cheat Sheet - RStudio](https://rmarkdown.rstudio.com/lesson-15.html)
 
 ## <a name="Colaboratory"></a>Colaboratory  
-* [Welcome to Colaboratory!](https://colab.research.google.com/notebooks/welcome.ipynb)  Colaboratory is a free Jupyter notebook environment that requires no setup and runs entirely in the cloud. With Colaboratory you can write and execute code, save and share your analyses, and access powerful computing resources, all for free from your browser.
+* [Welcome to Colaboratory!](https://colab.research.google.com/notebooks/welcome.ipynb)    
+Colaboratory is a free Jupyter notebook environment that requires no setup and runs entirely in the cloud. With Colaboratory you can write and execute code, save and share your analyses, and access powerful computing resources, all for free from your browser.  
   - [Overview of Colaboratory](/notebooks/basic_features_overview.ipynb)
   - [Guide to Markdown](/notebooks/markdown_guide.ipynb)
   - [Importing Libraries and Installing Dependencies](/notebooks/snippets/importing_libraries.ipynb)
