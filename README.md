@@ -119,6 +119,7 @@ by Max Woolf <br>
 
    * [Learn Markdown Online](https://commonmark.org/help/tutorial/) 
    * Cheat Sheet: [Markdown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) 
+   * Blog: [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
 
    ```
    Additional Reading:
