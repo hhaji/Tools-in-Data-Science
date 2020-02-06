@@ -128,7 +128,6 @@ by Max Woolf <br>
    * [Getting Started with R Markdown](https://ourcodingclub.github.io/2016/11/24/rmarkdown-1.html)
    * [Word to Markdown](https://word-to-markdown.herokuapp.com)
    * [Complete List of GitHub Markdown Emoji Markup](https://gist.github.com/rxaviers/7360908) by Rafael Xavier de Souza  
-   * [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
 
 ### <a name="RMarkdown"></a>R Markdown:
    * [R Markdown](https://rmarkdown.rstudio.com)
