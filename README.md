@@ -117,9 +117,9 @@ by Max Woolf <br>
 ## <a name="Markdown"></a>Markdown:
 [Markdown](https://www.markdownguide.org/getting-started) is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
 
-   * [Learn Markdown Online](https://commonmark.org/help/tutorial/) 
+   * Blog: [Learn Markdown Online](https://commonmark.org/help/tutorial/) 
    * Cheat Sheet: [Markdown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) 
-   * Blog: [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
+   * Blog: [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)  
 
    ```
    Additional Reading:
@@ -127,7 +127,8 @@ by Max Woolf <br>
 
    * [Getting Started with R Markdown](https://ourcodingclub.github.io/2016/11/24/rmarkdown-1.html)
    * [Word to Markdown](https://word-to-markdown.herokuapp.com)
-   * [Complete List of GitHub Markdown Emoji Markup](https://gist.github.com/rxaviers/7360908) by Rafael Xavier de Souza
+   * [Complete List of GitHub Markdown Emoji Markup](https://gist.github.com/rxaviers/7360908) by Rafael Xavier de Souza  
+   * [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
 
 ### <a name="RMarkdown"></a>R Markdown:
    * [R Markdown](https://rmarkdown.rstudio.com)
