@@ -170,7 +170,8 @@ Colaboratory is a free Jupyter notebook environment that requires no setup and r
    * [Practice Git Online](https://learngitbranching.js.org)
    * Learn Git from Scratch in [LabEx](https://labex.io/courses/learn-git-from-scratch)
    * [Git Book](https://git-scm.com/book/en/v2)
-   * [Git Tutorial](http://www.cs.columbia.edu/~sedwards/classes/2013/4840/git-tutorial.pdf) by Jae Woo Lee and Stephen A. Edwards
+   * [Git Tutorial](http://www.cs.columbia.edu/~sedwards/classes/2013/4840/git-tutorial.pdf) by Jae Woo Lee and Stephen A. Edwards  
+   * [Git Tools - Reset Demystified](https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified)
 
 ### <a name="Videos"></a>Videos:
    * [Parsclick (Git: In Persian)](https://parsclick.net/course/PL3Y-E4YSE4wYFlcomsBtJy1nCu3jclA8L) 
