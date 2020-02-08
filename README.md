@@ -163,7 +163,7 @@ Colaboratory is a free Jupyter notebook environment that requires no setup and r
    ```
    Additional Reading:
    ```
-   
+   * [Git Workflow](https://backlog.com/git-tutorial/git-workflow/)  
    * [Git Immersion](http://gitimmersion.com/) looks promising to practice Git.
    * [Git Quick Reference for Beginners](https://www.dataschool.io/git-quick-reference-for-beginners/)
    * Learn Git from [Git Handbook](https://guides.github.com/introduction/git-handbook/)
