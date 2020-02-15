@@ -27,7 +27,7 @@ git branch -m "new" | Rename current branch to "new"
 git checkout "branch_name" | Switch to "branch_name"
 git checkout -b "branch_name" | Create the branch and switch to this branch
 git checkout remotes/origin/"branch_name" | Switch to a remote "branch_name"
-git checkout -- "file_name" | Discard changes in the working directory. Here -- means to stay in the same branch which  confirms that "file_name" is not the name of a branch otherwise it switches to "branch_name"
+git checkout -- "file_name" | Discard changes in the working directory (i.e. replace the file in the working directory with the file in the staging index). Here -- means to stay in the same branch which  confirms that "file_name" is not the name of a branch otherwise it switches to "branch_name"
 git checkout "SHA1 hash" -- "filename" | Switch to a specific commit (determined by SHA1 hash). This command is safe and does not overwrite local changes in the working directory. Here HEAD is not detached because of "--".
 git merge "branch_name" | Incorporate changes from the named commits (since the time their histories diverged from the current branch) into the current branch
 git log | Show committed files
