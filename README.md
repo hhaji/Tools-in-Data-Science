@@ -311,7 +311,8 @@ Python continues to take leading positions in solving data science tasks and cha
 
    * [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin  <br>
    * [Using Excel with Pandas](https://www.dataquest.io/blog/excel-and-pandas/) by Harish Garg <br>
-   * [Using pandas with Large Data Sets](https://www.dataquest.io/blog/pandas-big-data/) by Josh Devlin <br>
+   * [Using pandas with Large Data Sets](https://www.dataquest.io/blog/pandas-big-data/) by Josh Devlin     
+   * [IO Tools (text, CSV, HDF5, …)](https://pandas.pydata.org/pandas-docs/stable/user_guide/io.html#io-read-csv-table)   
    
    ```
    Additional Reading:
