@@ -233,7 +233,7 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
    * [Warning Control:](http://www.wingware.com/psupport/python-manual/3.1/library/warnings.html) Warning messages are typically issued in situations where it is useful to alert the user of some condition in a program, where that condition (normally) doesn’t warrant raising an exception and terminating the program.  
       - [Warnings in Python](https://www.geeksforgeeks.org/warnings-in-python/) by Rituraj Saha   
       - [How to Use Python Warnings Framework?](https://www.idiotinside.com/2016/12/17/python-warnings-framework/)
-   * [PDB Module:](https://docs.python.org/3/library/pdb.html) The module pdb defines an interactive source code debugger for Python programs.  
+   * [PDB Module:](https://docs.python.org/3/library/pdb.html) This module defines an interactive source code debugger for Python programs.  
       - [Debugging Python Applications with the PDB Module](https://stackabuse.com/debugging-python-applications-with-the-pdb-module/) by Muhammad Junaid Khalid  
    * [Pickle Module:](https://docs.python.org/3/library/pickle.html) This module implements binary protocols for serializing and de-serializing a Python object structure. “Pickling” is the process whereby a Python object hierarchy is converted into a byte stream, and “unpickling” is the inverse operation, whereby a byte stream (from a binary file or bytes-like object) is converted back into an object hierarchy.   
       - [The Python pickle Module: How to Persist Objects in Python](https://realpython.com/python-pickle-module/) by Davide Mastromatteo   
