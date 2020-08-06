@@ -83,6 +83,7 @@ The [Jupyter](https://jupyter.org) is an open-source web application that allows
    * [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) by Benjamin Pryke
    * [Advanced Jupyter Notebooks: A Tutorial](https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/) by Benjamin Pryke
    * [28 Jupyter Notebook Tips, Tricks, and Shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/) by Josh Devlin 
+   * [Import-Ipynb:](https://pypi.org/project/import-ipynb/) The code within import_ipynb.py defines a “notebook loader” that allows you to “import” other ipynb files into your current ipynb file.   
 
    ```
    Additional Reading:
