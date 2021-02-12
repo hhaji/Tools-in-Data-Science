@@ -238,8 +238,10 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
       - [Debugging Python Applications with the PDB Module](https://stackabuse.com/debugging-python-applications-with-the-pdb-module/) by Muhammad Junaid Khalid  
    * [Pickle Module:](https://docs.python.org/3/library/pickle.html) This module implements binary protocols for serializing and de-serializing a Python object structure. “Pickling” is the process whereby a Python object hierarchy is converted into a byte stream, and “unpickling” is the inverse operation, whereby a byte stream (from a binary file or bytes-like object) is converted back into an object hierarchy.   
       - [The Python pickle Module: How to Persist Objects in Python](https://realpython.com/python-pickle-module/) by Davide Mastromatteo   
-   * [Python's Instance, Class, and Static Methods Demystified](https://realpython.com/instance-class-and-static-methods-demystified/) by Dan Bader   
-   * [Python's @classmethod and @staticmethod Explained](https://djangocentral.com/classmethod-and-staticmethod-explained/)  
+   * Methods n Python:
+      - Blog: [Python's Instance, Class, and Static Methods Demystified](https://realpython.com/instance-class-and-static-methods-demystified/) by Dan Bader   
+      - Blog: [Python's @classmethod and @staticmethod Explained](https://djangocentral.com/classmethod-and-staticmethod-explained/)  
+      - Question: [Module Function vs Staticmethod vs Classmethod vs no Decorators: Which Idiom is More Pythonic?](https://stackoverflow.com/questions/11788195/module-function-vs-staticmethod-vs-classmethod-vs-no-decorators-which-idiom-is)
    
 ### <a name="R"></a>R: 
    * Online Book: [R for Data Science](https://r4ds.had.co.nz/index.html) <br>
