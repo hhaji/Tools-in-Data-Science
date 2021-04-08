@@ -140,6 +140,7 @@ by Max Woolf <br>
 Colaboratory is a free Jupyter notebook environment that requires no setup and runs entirely in the cloud. With Colaboratory you can write and execute code, save and share your analyses, and access powerful computing resources, all for free from your browser.  
   - [Overview of Colaboratory](/notebooks/basic_features_overview.ipynb)
   - [Guide to Markdown](/notebooks/markdown_guide.ipynb)
+  - [Unrar, Unzip, Rar, Zip in Gdrive](https://colab.research.google.com/drive/1xinRwhXtlL-9Y0KbPrTmTxNdcN-Hvq4m)  
   - [Importing Libraries and Installing Dependencies](/notebooks/snippets/importing_libraries.ipynb)
   - [Saving and Loading Notebooks in GitHub](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
   - [Interactive Forms](/notebooks/forms.ipynb)
