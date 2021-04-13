@@ -319,12 +319,13 @@ Python continues to take leading positions in solving data science tasks and cha
    Additional Reading:
    ```
    
-   * [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
-   * [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/) by Justin Johnson <br>
-   * [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) <br>
-   * Tutorial: [An Essential Guide to Numpy for Machine Learning in Python](http://onlinetutorials.today/numpy/an-essential-guide-to-numpy-for-machine-learning-in-python/) by Siddharth Dikshit <br>
-   * NoteBook: [How Fast are NumPy Operations Compared to Regular Python Math?](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/How%20fast%20are%20NumPy%20ops.ipynb) by Tirthajyoti Sarkar <br>
-   * [Data Science with Python: Turn your Conditional Loops to Numpy Vectors](https://towardsdatascience.com/data-science-with-python-turn-your-conditional-loops-to-numpy-vectors-9484ff9c622e) by Tirthajyoti Sarkar <br>
+   * [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin     
+   * [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/) by Justin Johnson    
+   * [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013)     
+   * Tutorial: [An Essential Guide to Numpy for Machine Learning in Python](http://onlinetutorials.today/numpy/an-essential-guide-to-numpy-for-machine-learning-in-python/) by Siddharth Dikshit    
+   * NoteBook: [How Fast are NumPy Operations Compared to Regular Python Math?](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/How%20fast%20are%20NumPy%20ops.ipynb) by Tirthajyoti Sarkar    
+   * Blog: [Data Science with Python: Turn your Conditional Loops to Numpy Vectors](https://towardsdatascience.com/data-science-with-python-turn-your-conditional-loops-to-numpy-vectors-9484ff9c622e) by Tirthajyoti Sarkar   
+   * Blog: [One Simple Trick for Speeding up your Python Code with Numpy](https://towardsdatascience.com/one-simple-trick-for-speeding-up-your-python-code-with-numpy-1afc846db418) by George Seif    
 
    - **Exercises:** Practice Numpy in [LabEx](https://labex.io/courses/100-numpy-exercises)
 
@@ -347,6 +348,7 @@ Python continues to take leading positions in solving data science tasks and cha
    - Tutorial: [Visualizing Machine Learning One Concept at a Time](http://jalammar.github.io) by Jay Alammar
    - Tutorial: [Best practices with pandas (Video Series)](https://www.dataschool.io/best-practices-with-pandas/)
    - Tutorial: [9 New Pandas Updates That Will Save You Time](https://www.dataschool.io/python-pandas-updates/)
+   - Blog: [Difference between Pandas VS NumPy](https://www.geeksforgeeks.org/difference-between-pandas-vs-numpy/) by Vansh Gaur   
    - **Exercises:** Practice Pandas in [LabEx](https://labex.io/courses/100-pandas-exercises)
 
 ### <a name="Matplotlib"></a>Matplotlib:
