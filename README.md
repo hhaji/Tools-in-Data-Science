@@ -30,7 +30,7 @@ important tools in data science and also some tools to write or share your proje
   - [Useful R Tricks](#URT)
   - [Machine Learning in R](#MLR)
   - [Useful Machine Learning Sites in R](#UMLSR) 
-  - [Project Euler](#Project-Euler)
+  - [Practice Code](#Project-Euler)
   - [SQL](#SQL)
 - [Python Libraries for Data Science](#Python-Libraries-for-Data-Science) 
   - [Numpy](#Numpy)
@@ -285,9 +285,10 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
    * NoteBook: [Principles of Machine Learning R](https://github.com/MicrosoftLearning/Principles-of-Machine-Learning-R) 
    * Blog: [Practical Machine Learning Course Notes](https://sux13.github.io/DataScienceSpCourseNotes/8_PREDMACHLEARN/Practical_Machine_Learning_Course_Notes.html) by Xing Su 
 
-### <a name="Project-Euler"></a>Project Euler:
-If you want to solve interesting problems to practice Python or R, then we recommend to solve the problems of [Project Euler](https://projecteuler.net/)! 
-
+### <a name="Project-Euler"></a>Practice Code:
+If you want to solve interesting problems to practice Python or R, then we recommend to solve the following problems:   
+   * Blog: [Project Euler](https://projecteuler.net/)! 
+   * Blog: [Codeforces](https://codeforces.com/)
 
 ### <a name="SQL"></a>SQL:
 SQL is a a domain-specific language for managing data in databases.
