@@ -26,6 +26,8 @@ important tools in data science and also some tools to write or share your proje
   - [GitHub](#GitHub)
 - [Programming Languages](#Programming-Languages)
   - [Python](#Python)
+  - [Useful Python Tricks](#UPT)
+  - [Useful Modules in Python](#UMP)
   - [R](#R)
   - [Useful R Sites](#URS)
   - [Useful R Tricks](#URT)
@@ -232,15 +234,11 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
    * [Errors and Debugging](https://jakevdp.github.io/PythonDataScienceHandbook/01.06-errors-and-debugging.html) by Jake VanderPlas
    * [Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython) by Ujjwal Karn
    
-   ```
-   Useful Tricks in Python:
-   ```
+### <a name="UPT"></a> Useful Tricks in Python:   
    
    * [IF __NAME__ == “__MAIN__”](http://plantbasedprogrammer.com/if-__name__-__main__/) by Peter Lynch   
    
-   ```
-   Useful Modules in Python:
-   ```  
+### <a name="UMP"></a> Useful Modules in Python:    
    
    * [Argparse](https://docs.python.org/3/library/argparse.html): The argparse module makes it easy to write user-friendly command-line interfaces.  
       - [How to use sys.argv in Python](https://www.geeksforgeeks.org/how-to-use-sys-argv-in-python/) by Vanshika Goyal   
