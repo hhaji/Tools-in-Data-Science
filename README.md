@@ -13,7 +13,7 @@ important tools in data science and also some tools to write or share your proje
 - [Anaconda](#Anaconda)
 - [Integrated Development Environment (IDE)](#IDE)
   - [Colaboratory (a WEB IDE)](#Colaboratory) 
-  - [Jupyter and IPython (a WEB IDE)](#Jupyter-and-IPython)
+  - [Jupyter and IPython (a WEB IDE)](#Jupyter-and-IPython)    
          - [Jupyter Lab](#JLAB)
          - [R NoteBook](#RNoteBook)
 - [Markdown](#Markdown) 
