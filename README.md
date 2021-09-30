@@ -14,8 +14,8 @@ important tools in data science and also some tools to write or share your proje
 - [Integrated Development Environment (IDE)](#IDE)
   - [Colaboratory (a WEB IDE)](#Colaboratory) 
   - [Jupyter and IPython (a WEB IDE)](#Jupyter-and-IPython)    
-         - [Jupyter Lab](#JLAB)
-         - [R NoteBook](#RNoteBook)
+  - [Jupyter Lab](#JLAB)  
+  - [R NoteBook](#RNoteBook)  
 - [Markdown](#Markdown) 
   - [R Markdown](#RMarkdown) 
 - [Git](#Git)
@@ -126,7 +126,7 @@ The [Jupyter](https://jupyter.org) is an open-source web application that allows
    * Paper: [Ten Simple Rules for Reproducible Research in Jupyter Notebooks](https://arxiv.org/pdf/1810.08055.pdf)
    * Talk: [Jupyter (Formerly IPython Notebook)](http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/6973/pdf/imm6973.pdf) by Finn Arup Nielsen <br>
     
-#### <a name="JLAB"></a>Jupyter Lab:
+### <a name="JLAB"></a>Jupyter Lab:
 
    * [Awesome JupyterLab](https://github.com/mauhai/awesome-jupyterlab) by Hai Nguyen Mau
    * [JupyterLab Extension](https://github.com/topics/jupyterlab-extension) 
@@ -138,7 +138,7 @@ The [Jupyter](https://jupyter.org) is an open-source web application that allows
    * [Jupyter Lab extensions for Data Scientist](https://medium.com/@subpath/jupyter-lab-extensions-for-data-scientist-e0d97d529fc1) by Alexander Osipenko 
    * Install: [The R kernel in Jupyter Lab](https://richpauloo.github.io/2018-05-16-Installing-the-R-kernel-in-Jupyter-Lab/) by Rich Pauloo <br> 
  
-#### <a name="RNoteBook"></a>R NoteBook:
+### <a name="RNoteBook"></a>R NoteBook:
    * [Advantages of Using R Notebooks For Data Analysis Instead of Jupyter Notebooks](https://minimaxir.com/2017/06/r-notebooks/) 
 by Max Woolf <br>
    * [R Notebook](https://bookdown.org/yihui/rmarkdown/notebook.html) by Yihui Xie, J. J. Allaire, and Garrett Grolemund <br> 
