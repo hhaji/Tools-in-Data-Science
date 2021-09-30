@@ -16,7 +16,8 @@ important tools in data science and also some tools to write or share your proje
   - [R NoteBook](#RNoteBook)
 - [Markdown](#Markdown) 
   - [R Markdown](#RMarkdown) 
-- [Colaboratory](#Colaboratory) 
+- [Integrated Development Environment](#IDE)
+  - [Colaboratory](#Colaboratory) 
 - [Git](#Git)
   - [Git Resources](#Git-Resources)
   - [Videos](#Videos)
@@ -130,12 +131,21 @@ by Max Woolf <br>
    * [Word to Markdown](https://word-to-markdown.herokuapp.com)
    * [Complete List of GitHub Markdown Emoji Markup](https://gist.github.com/rxaviers/7360908) by Rafael Xavier de Souza  
 
-### <a name="RMarkdown"></a>R Markdown:
+### <a name="RMarkdown"></a>R Markdown:   
    * [R Markdown](https://rmarkdown.rstudio.com)
    * [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) by Yihui Xie, J. J. Allaire, and Garrett Grolemund <br>
    * [R Markdown Cheat Sheet - RStudio](https://rmarkdown.rstudio.com/lesson-15.html)
+   
+## <a name="IDE"></a>Integrated Development Environment:   
+[What Are IDEs and Code Editors?](https://realpython.com/python-ides-code-editors-guide/#what-are-ides-and-code-editors)    
+An IDE (or Integrated Development Environment) is a program dedicated to software development. As the name implies, IDEs integrate several tools specifically designed for software development. These tools usually include:   
+  An editor designed to handle code (with, for example, syntax highlighting and auto-completion)   
+  Build, execution, and debugging tools   
+  Some form of source control   
+  Most IDEs support many different programming languages and contain many more features. They can, therefore, be large and take time to download and install. You may also need advanced knowledge to use them properly.   
 
-## <a name="Colaboratory"></a>Colaboratory  
+
+### <a name="Colaboratory"></a>Colaboratory:   
 * [Welcome to Colaboratory!](https://colab.research.google.com/notebooks/welcome.ipynb)    
 Colaboratory is a free Jupyter notebook environment that requires no setup and runs entirely in the cloud. With Colaboratory you can write and execute code, save and share your analyses, and access powerful computing resources, all for free from your browser.  
   - [Overview of Colaboratory](/notebooks/basic_features_overview.ipynb)
@@ -150,12 +160,12 @@ Colaboratory is a free Jupyter notebook environment that requires no setup and r
   - [Charts: Visualizing Data](/notebooks/charts.ipynb)
   - [Getting Started with BigQuery](/notebooks/bigquery.ipynb)
 
-### Working with Data
+### Working with Data:   
 - [Loading data: Drive, Sheets, and Google Cloud Storage](/notebooks/io.ipynb) 
 - [Charts: visualizing data](/notebooks/charts.ipynb)
 - [Getting started with BigQuery](/notebooks/bigquery.ipynb)
 
-## <a name="Git"></a>Git
+## <a name="Git"></a>Git:   
 [Git](https://git-scm.com) is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is [easy to learn](https://git-scm.com/doc) and has a [tiny footprint with lightning fast performance](https://git-scm.com/about/small-and-fast). 
 
 ### <a name="Git-Resources"></a>Git Resources:
@@ -230,8 +240,10 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
    ```  
    
    * [Argparse](https://docs.python.org/3/library/argparse.html): The argparse module makes it easy to write user-friendly command-line interfaces.  
+      - [How to use sys.argv in Python](https://www.geeksforgeeks.org/how-to-use-sys-argv-in-python/) by Vanshika Goyal   
       - [How to Build Command Line Interfaces in Python With Argparse](https://realpython.com/command-line-interfaces-python-argparse/) by  Davide Mastromatteo  
       - [Python, Argparse, and Command Line Arguments](https://www.pyimagesearch.com/2018/03/12/python-argparse-command-line-arguments/) Python, argparse, and command line arguments by Adrian Rosebrock   
+      
    * [Warning Control:](http://www.wingware.com/psupport/python-manual/3.1/library/warnings.html) Warning messages are typically issued in situations where it is useful to alert the user of some condition in a program, where that condition (normally) doesn’t warrant raising an exception and terminating the program.  
       - [Warnings in Python](https://www.geeksforgeeks.org/warnings-in-python/) by Rituraj Saha   
       - [How to Use Python Warnings Framework?](https://www.idiotinside.com/2016/12/17/python-warnings-framework/)
