@@ -137,15 +137,18 @@ by Max Woolf <br>
    * [R Markdown Cheat Sheet - RStudio](https://rmarkdown.rstudio.com/lesson-15.html)
    
 ## <a name="IDE"></a>Integrated Development Environment:   
-[What Are IDEs and Code Editors?](https://realpython.com/python-ides-code-editors-guide/#what-are-ides-and-code-editors)    
-An IDE (or Integrated Development Environment) is a program dedicated to software development. As the name implies, IDEs integrate several tools specifically designed for software development. These tools usually include:   
-  An editor designed to handle code (with, for example, syntax highlighting and auto-completion)   
-  Build, execution, and debugging tools   
-  Some form of source control   
-  Most IDEs support many different programming languages and contain many more features. They can, therefore, be large and take time to download and install. You may also need advanced knowledge to use them properly.   
+[Python IDEs and Code Editors (Guide)](https://realpython.com/python-ides-code-editors-guide) by by Jon Fincher     
+* **IDE**: An IDE (or Integrated Development Environment) is a program dedicated to software development. As the name implies, IDEs integrate several tools specifically designed for software development. These tools usually include:   
+    - An editor designed to handle code (with, for example, syntax highlighting and auto-completion)   
+    - Build, execution, and debugging tools   
+    - Some form of source control   
+    - Most IDEs support many different programming languages and contain many more features. They can, therefore, be large and take time to download and install. You may also need advanced knowledge to use them properly.   
+* Top Python IDEs For Data Science (My Recommendation):
+    - [Visual Studio Code](https://code.visualstudio.com/)  
+    - [PyCharm](https://www.jetbrains.com/pycharm/)  
+    - [Spyder](https://github.com/spyder-ide/spyder)
 
-
-### <a name="Colaboratory"></a>Colaboratory:   
+### <a name="Colaboratory"></a>Colaboratory (a WEB IDE):   
 * [Welcome to Colaboratory!](https://colab.research.google.com/notebooks/welcome.ipynb)    
 Colaboratory is a free Jupyter notebook environment that requires no setup and runs entirely in the cloud. With Colaboratory you can write and execute code, save and share your analyses, and access powerful computing resources, all for free from your browser.  
   - [Overview of Colaboratory](/notebooks/basic_features_overview.ipynb)
