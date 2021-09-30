@@ -11,13 +11,13 @@ important tools in data science and also some tools to write or share your proje
 ### **Index:**
 - [Command Line](#Command-Line)
 - [Anaconda](#Anaconda)
-- [Markdown](#Markdown) 
-  - [R Markdown](#RMarkdown) 
 - [Integrated Development Environment (IDE)](#IDE)
   - [Colaboratory (a WEB IDE)](#Colaboratory) 
-  - [Jupyter and IPython](#Jupyter-and-IPython)
-   - [Jupyter Lab](#JLAB)
-   - [R NoteBook](#RNoteBook)
+  - [Jupyter and IPython (a WEB IDE)](#Jupyter-and-IPython)
+         - [Jupyter Lab](#JLAB)
+         - [R NoteBook](#RNoteBook)
+- [Markdown](#Markdown) 
+  - [R Markdown](#RMarkdown) 
 - [Git](#Git)
   - [Git Resources](#Git-Resources)
   - [Videos](#Videos)
@@ -77,64 +77,6 @@ important tools in data science and also some tools to write or share your proje
   * [Using Pip in a Conda Environment](https://www.anaconda.com/using-pip-in-a-conda-environment/) by Jonathan Helmus 
   * [Conda Commands (Create Virtual Environments for Python with Conda)](http://deeplearning.lipingyang.org/2018/12/25/conda-commands-create-virtual-environments-for-python-with-conda/) by LipingY  
   * [Conda Cheat Sheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf) 
-
-## <a name="Jupyter-and-IPython"></a>Jupyter and IPython:
-The [Jupyter](https://jupyter.org) is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more. Also, [IPython](https://ipython.org) provides a rich architecture for interactive computing with in multiple programming languages.
-
-   * [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) by Benjamin Pryke
-   * [Advanced Jupyter Notebooks: A Tutorial](https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/) by Benjamin Pryke
-   * [28 Jupyter Notebook Tips, Tricks, and Shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/) by Josh Devlin 
-   * [Import-Ipynb:](https://pypi.org/project/import-ipynb/) The code within import_ipynb.py defines a “notebook loader” that allows you to “import” other ipynb files into your current ipynb file.   
-
-   ```
-   Additional Reading:
-   ```
-    
-   * [Six Easy Ways to Run Your Jupyter Notebook in the Cloud](https://www.dataschool.io/cloud-services-for-jupyter-notebook/)   
-   * [IPython and Shell Commands](https://jakevdp.github.io/PythonDataScienceHandbook/01.05-ipython-and-shell-commands.html)
-   * [IPython: Beyond Normal Python](https://www.oreilly.com/library/view/python-data-science/9781491912126/ch01.html)
-   * [Jupyter/IPython Notebook Quick Start Guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)
-   * [Built-in Magic Commands](https://ipython.readthedocs.io/en/stable/interactive/magics.html)
-   * [Defining Custom Magics](https://ipython.org/ipython-doc/dev/config/custommagics.html)    * [Introducing IPython:](https://ipython.org/ipython-doc/3/interactive/tutorial.html) Differences between line-oriented and cell-oriented magic functions 
-   * Paper: [Ten Simple Rules for Reproducible Research in Jupyter Notebooks](https://arxiv.org/pdf/1810.08055.pdf)
-   * Talk: [Jupyter (Formerly IPython Notebook)](http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/6973/pdf/imm6973.pdf) by Finn Arup Nielsen <br>
-    
-### <a name="JLAB"></a>Jupyter Lab:
-
-   * [Awesome JupyterLab](https://github.com/mauhai/awesome-jupyterlab) by Hai Nguyen Mau
-   * [JupyterLab Extension](https://github.com/topics/jupyterlab-extension) 
-   
-   ```
-   Additional Reading:
-   ```
-    
-   * [Jupyter Lab extensions for Data Scientist](https://medium.com/@subpath/jupyter-lab-extensions-for-data-scientist-e0d97d529fc1) by Alexander Osipenko 
-   * Install: [The R kernel in Jupyter Lab](https://richpauloo.github.io/2018-05-16-Installing-the-R-kernel-in-Jupyter-Lab/) by Rich Pauloo <br> 
- 
-### <a name="RNoteBook"></a>R NoteBook:
-   * [Advantages of Using R Notebooks For Data Analysis Instead of Jupyter Notebooks](https://minimaxir.com/2017/06/r-notebooks/) 
-by Max Woolf <br>
-   * [R Notebook](https://bookdown.org/yihui/rmarkdown/notebook.html) by Yihui Xie, J. J. Allaire, and Garrett Grolemund <br> 
-
-## <a name="Markdown"></a>Markdown:
-[Markdown](https://www.markdownguide.org/getting-started) is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
-
-   * Blog: [Learn Markdown Online](https://commonmark.org/help/tutorial/) 
-   * Cheat Sheet: [Markdown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) 
-   * Blog: [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)  
-
-   ```
-   Additional Reading:
-   ```
-
-   * [Getting Started with R Markdown](https://ourcodingclub.github.io/2016/11/24/rmarkdown-1.html)
-   * [Word to Markdown](https://word-to-markdown.herokuapp.com)
-   * [Complete List of GitHub Markdown Emoji Markup](https://gist.github.com/rxaviers/7360908) by Rafael Xavier de Souza  
-
-### <a name="RMarkdown"></a>R Markdown:   
-   * [R Markdown](https://rmarkdown.rstudio.com)
-   * [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) by Yihui Xie, J. J. Allaire, and Garrett Grolemund <br>
-   * [R Markdown Cheat Sheet - RStudio](https://rmarkdown.rstudio.com/lesson-15.html)
    
 ## <a name="IDE"></a>Integrated Development Environment:   
 [Python IDEs and Code Editors (Guide)](https://realpython.com/python-ides-code-editors-guide) by by Jon Fincher     
@@ -162,6 +104,64 @@ Colaboratory is a free Jupyter notebook environment that requires no setup and r
   - [Loading Data: Drive, Sheets, and Google Cloud Storage](/notebooks/io.ipynb) 
   - [Charts: Visualizing Data](/notebooks/charts.ipynb)
   - [Getting Started with BigQuery](/notebooks/bigquery.ipynb)
+
+### <a name="Jupyter-and-IPython"></a>Jupyter and IPython:
+The [Jupyter](https://jupyter.org) is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more. Also, [IPython](https://ipython.org) provides a rich architecture for interactive computing with in multiple programming languages.
+
+   * [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) by Benjamin Pryke
+   * [Advanced Jupyter Notebooks: A Tutorial](https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/) by Benjamin Pryke
+   * [28 Jupyter Notebook Tips, Tricks, and Shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/) by Josh Devlin 
+   * [Import-Ipynb:](https://pypi.org/project/import-ipynb/) The code within import_ipynb.py defines a “notebook loader” that allows you to “import” other ipynb files into your current ipynb file.   
+
+   ```
+   Additional Reading:
+   ```
+    
+   * [Six Easy Ways to Run Your Jupyter Notebook in the Cloud](https://www.dataschool.io/cloud-services-for-jupyter-notebook/)   
+   * [IPython and Shell Commands](https://jakevdp.github.io/PythonDataScienceHandbook/01.05-ipython-and-shell-commands.html)
+   * [IPython: Beyond Normal Python](https://www.oreilly.com/library/view/python-data-science/9781491912126/ch01.html)
+   * [Jupyter/IPython Notebook Quick Start Guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)
+   * [Built-in Magic Commands](https://ipython.readthedocs.io/en/stable/interactive/magics.html)
+   * [Defining Custom Magics](https://ipython.org/ipython-doc/dev/config/custommagics.html)    * [Introducing IPython:](https://ipython.org/ipython-doc/3/interactive/tutorial.html) Differences between line-oriented and cell-oriented magic functions 
+   * Paper: [Ten Simple Rules for Reproducible Research in Jupyter Notebooks](https://arxiv.org/pdf/1810.08055.pdf)
+   * Talk: [Jupyter (Formerly IPython Notebook)](http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/6973/pdf/imm6973.pdf) by Finn Arup Nielsen <br>
+    
+#### <a name="JLAB"></a>Jupyter Lab:
+
+   * [Awesome JupyterLab](https://github.com/mauhai/awesome-jupyterlab) by Hai Nguyen Mau
+   * [JupyterLab Extension](https://github.com/topics/jupyterlab-extension) 
+   
+   ```
+   Additional Reading:
+   ```
+    
+   * [Jupyter Lab extensions for Data Scientist](https://medium.com/@subpath/jupyter-lab-extensions-for-data-scientist-e0d97d529fc1) by Alexander Osipenko 
+   * Install: [The R kernel in Jupyter Lab](https://richpauloo.github.io/2018-05-16-Installing-the-R-kernel-in-Jupyter-Lab/) by Rich Pauloo <br> 
+ 
+#### <a name="RNoteBook"></a>R NoteBook:
+   * [Advantages of Using R Notebooks For Data Analysis Instead of Jupyter Notebooks](https://minimaxir.com/2017/06/r-notebooks/) 
+by Max Woolf <br>
+   * [R Notebook](https://bookdown.org/yihui/rmarkdown/notebook.html) by Yihui Xie, J. J. Allaire, and Garrett Grolemund <br> 
+
+## <a name="Markdown"></a>Markdown:
+[Markdown](https://www.markdownguide.org/getting-started) is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
+
+   * Blog: [Learn Markdown Online](https://commonmark.org/help/tutorial/) 
+   * Cheat Sheet: [Markdown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) 
+   * Blog: [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)  
+
+   ```
+   Additional Reading:
+   ```
+
+   * [Getting Started with R Markdown](https://ourcodingclub.github.io/2016/11/24/rmarkdown-1.html)
+   * [Word to Markdown](https://word-to-markdown.herokuapp.com)
+   * [Complete List of GitHub Markdown Emoji Markup](https://gist.github.com/rxaviers/7360908) by Rafael Xavier de Souza  
+
+### <a name="RMarkdown"></a>R Markdown:   
+   * [R Markdown](https://rmarkdown.rstudio.com)
+   * [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) by Yihui Xie, J. J. Allaire, and Garrett Grolemund <br>
+   * [R Markdown Cheat Sheet - RStudio](https://rmarkdown.rstudio.com/lesson-15.html)
 
 ### Working with Data:   
 - [Loading data: Drive, Sheets, and Google Cloud Storage](/notebooks/io.ipynb) 
