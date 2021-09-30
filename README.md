@@ -244,6 +244,7 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
    
    * [Argparse](https://docs.python.org/3/library/argparse.html): The argparse module makes it easy to write user-friendly command-line interfaces.  
       - [How to use sys.argv in Python](https://www.geeksforgeeks.org/how-to-use-sys-argv-in-python/) by Vanshika Goyal   
+      - [Python Argparse Cookbook](https://mkaz.blog/code/python-argparse-cookbook/) by Marcus Kazmierczak    
       - [How to Build Command Line Interfaces in Python With Argparse](https://realpython.com/command-line-interfaces-python-argparse/) by  Davide Mastromatteo  
       - [Python, Argparse, and Command Line Arguments](https://www.pyimagesearch.com/2018/03/12/python-argparse-command-line-arguments/) Python, argparse, and command line arguments by Adrian Rosebrock   
       
