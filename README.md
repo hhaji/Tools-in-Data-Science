@@ -254,8 +254,8 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
       - [Python Argparse Cookbook](https://mkaz.blog/code/python-argparse-cookbook/) by Marcus Kazmierczak    
       - [How to Build Command Line Interfaces in Python With Argparse](https://realpython.com/command-line-interfaces-python-argparse/) by  Davide Mastromatteo  
       - [Python, Argparse, and Command Line Arguments](https://www.pyimagesearch.com/2018/03/12/python-argparse-command-line-arguments/) Python, argparse, and command line arguments by Adrian Rosebrock   
-      - [Python argparse (ArgumentParser) Examples for Beginners](https://www.golinuxcloud.com/python-argparse/)  
-      
+      - [Python argparse (ArgumentParser) Examples for Beginners](https://www.golinuxcloud.com/python-argparse/) 
+      - [A Simple Guide To Command Line Arguments With ArgParse](https://towardsdatascience.com/a-simple-guide-to-command-line-arguments-with-argparse-6824c30ab1c3) by Sam Starkman      
    * [Warning Control:](http://www.wingware.com/psupport/python-manual/3.1/library/warnings.html) Warning messages are typically issued in situations where it is useful to alert the user of some condition in a program, where that condition (normally) doesn’t warrant raising an exception and terminating the program.  
       - [Warnings in Python](https://www.geeksforgeeks.org/warnings-in-python/) by Rituraj Saha   
       - [How to Use Python Warnings Framework?](https://www.idiotinside.com/2016/12/17/python-warnings-framework/)
