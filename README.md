@@ -24,6 +24,7 @@ important tools in data science and also some tools to write or share your proje
   - [Git Cheat Sheets](#Git-Cheat-Sheets)
   - [Slides](#Slides)
   - [GitHub](#GitHub)
+- [Docker](#Docker)
 - [Programming Languages](#Programming-Languages)
   - [Python](#Python)
   - [Useful Python Tricks](#UPT)
@@ -208,6 +209,15 @@ by Max Woolf <br>
 ### <a name="GitHub"></a>GitHub:
    * [Tutorial: Introduction to Git and Github](https://www.dataquest.io/blog/tutorial-introduction-learn-git-github/)
    * To understand how to contribute on GitHub, learn first [forks and pull requests](http://www.dataschool.io/simple-guide-to-forks-in-github-and-git/). 
+
+## <a name="Docker"></a>Docker:   
+   Docker provides a simple and powerful developer experience, workflows and collaboration for creating applications.   
+   * Blog: [Learn to Build and Deploy Your Distributed Applications Easily to The Cloud With Docker](https://docker-curriculum.com/)  
+   * Blog: [Docker Tutorial: Get Going From Scratch](https://stackify.com/docker-tutorial/) by Eric Goebelbecker    
+   * Blog: [Dockerfile Tutorial by Example - Basics and Best Practices](https://takacsmark.com/dockerfile-tutorial-by-example-dockerfile-best-practices-2018/) by Márk Takács    
+   * Blog: [What is the WORKDIR Command in Docker?](https://www.educative.io/edpresso/what-is-the-workdir-command-in-docker) by Edpresso Team   
+   * Blog: [Docker – WORKDIR Instruction](https://www.geeksforgeeks.org/docker-workdir-instruction/)    
+   * Slide: [Docker and Deployment](https://cse442.com/static_files/slides/Docker_1.pdf) by Joel Spolsky   
 
 ## <a name="Programming-Languages"></a>Programming Languages: 
 ### <a name="Python"></a>Python:
