@@ -213,6 +213,7 @@ by Max Woolf <br>
 ## <a name="Docker"></a>Docker:   
    Docker provides a simple and powerful developer experience, workflows and collaboration for creating applications.   
    * Blog: [Learn to Build and Deploy Your Distributed Applications Easily to The Cloud With Docker](https://docker-curriculum.com/)  
+   * Blog: [Docker for Beginners](https://docker-curriculum.com/) by Prakhar Srivastav   
    * Blog: [Docker Tutorial: Get Going From Scratch](https://stackify.com/docker-tutorial/) by Eric Goebelbecker    
    * Blog: [Dockerfile Tutorial by Example - Basics and Best Practices](https://takacsmark.com/dockerfile-tutorial-by-example-dockerfile-best-practices-2018/) by Márk Takács    
    * Blog: [What is the WORKDIR Command in Docker?](https://www.educative.io/edpresso/what-is-the-workdir-command-in-docker) by Edpresso Team   
