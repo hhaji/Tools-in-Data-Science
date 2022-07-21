@@ -255,6 +255,7 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
    * Modules and Packages in Python:
       - [Python Modules and Packages – An Introduction](https://realpython.com/python-modules-packages/) by John Sturtz   
       - [Packages in Python](https://www.python-course.eu/python3_packages.php)
+   * [Python Tutorial By Scaler Topics:](https://www.scaler.com/topics/python/) This Python tutorial is for beginners who want to learn Python language from scratch as this will help in data visualisation in Data Science. This tutorial also contains lots of exercises as well that will help understand Python in a detailed way. 
       
    
 ### <a name="UPT"></a> Useful Tricks in Python:   
