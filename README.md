@@ -219,7 +219,8 @@ by Max Woolf <br>
    * Blog: [Docker – COPY Instruction](https://www.geeksforgeeks.org/docker-copy-instruction/) by Raunak Jain   
    * Blog: [What is the WORKDIR Command in Docker?](https://www.educative.io/edpresso/what-is-the-workdir-command-in-docker) by Edpresso Team   
    * Blog: [Docker – WORKDIR Instruction](https://www.geeksforgeeks.org/docker-workdir-instruction/) by Raunak Jain      
-   * Blog: [Guide to Docker Volumes](https://www.baeldung.com/ops/docker-volumes) Guide to Docker Volumes  
+   * Blog: [Guide to Docker Volumes](https://www.baeldung.com/ops/docker-volumes) Guide to Docker Volumes 
+   * Blog: [Docker Tutorial for Beginners – Introduction & Getting Started](https://spacelift.io/blog/docker-tutorial) by James Walker 
    * Slide: [Introduction to Docker](https://us.pycon.org/2016/site_media/media/tutorial_handouts/DockerSlides.pdf) by Jérôme Petazzoni   
    * Slide: [Docker and Deployment](https://cse442.com/static_files/slides/Docker_1.pdf) by Joel Spolsky   
 
